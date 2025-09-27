@@ -1,6 +1,10 @@
+English Video
+     Niharika english teacher
+     10 English Adjectives To Describe Someone’s Voice | English Vocabulary Lesson | Learn English 
+
 Sharepoint Administrator
       **Tutorial**    
-
+     The key differences between Microsoft 365 vs. Office 365
       **Interview Question**
 
 Sharepoint Online
@@ -21,7 +25,11 @@ Sharepoint Online
       Manage per user expiration for existing users on a site
 
       **Interview Question**
+     How to configure Search Verticals on a SharePoint site
+     ShortPoint REST API: Selecting, Filtering, Sorting Results in a SharePoint List
 
+Sharepoint Onpream
+     How to create timer job and how to trigger in sharepoint on prem
 SPFX
       **Tutorial**
 
@@ -76,6 +84,10 @@ SPFX
       CRUD with No javascript?
       CRUD with PNP JS?
       Field customizer in upload file with attachment via React JS
+     How many ways to debug spfx webaprt in sharepoint online
+     How to create spfx environment variable and how to use
+     SharePoint Framework - CRUD operations using No Framework
+     How can i use graph api in sharepoint framwork
 
 Git and GitHUB
       **Tutorial**
@@ -103,7 +115,7 @@ Git and GitHUB
        Fork
 
        **Interview Question**
-    
+     git and github configuration
 
 React JS
        **Tutorial**
@@ -114,31 +126,38 @@ React JS
        
 
        **Interview Question**
-
+     ReactJS w3 school
 
 PowerPlatform Administrator
        **Tutorial**
 
        **Interview Question**
-   
+     Pipeline for Power platform | Deploy solution to environment   
 PowerApps Canvas
        **Tutorial**
 
        **Interview Question**
-   
+   UI/UX design components for Power Apps canvas apps
 
 PowerApps Modern Driven App
        **Tutorial**
 
        **Interview Question**
-   
+     Model driven in powerapps
+     UI/UX design components for Power Apps model-driven apps
+     Powerpages PCF control create and use
 PowerAutomate cloud flow    
        **Tutorial**
 
        **Interview Question**
-   
+     Powerautomate approval flow where we can configer for 7 days after notification   
 PowerAutomate Desktop flow  
        **Tutorial**
 
        **Interview Question**
-   
+Azure
+     Create azure devops pipeline using github
+
+ShareGate
+     How to migrate SharePoint Online sites to another SharePoint Online environment | ShareGate | M365
+     Migration Sharepoint OnPremise 2013 to SharePoint Online using ShareGate Tool
