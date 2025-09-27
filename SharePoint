@@ -2,10 +2,13 @@ English Video
      Niharika english teacher
      10 English Adjectives To Describe Someone’s Voice | English Vocabulary Lesson | Learn English 
 
+M365
+
 Sharepoint Administrator
       **Tutorial**    
      The key differences between Microsoft 365 vs. Office 365
       **Interview Question**
+     Explore more feature in SharePoint online admin center
 
 Sharepoint Online
       **Tutorial**
@@ -27,6 +30,26 @@ Sharepoint Online
       **Interview Question**
      How to configure Search Verticals on a SharePoint site
      ShortPoint REST API: Selecting, Filtering, Sorting Results in a SharePoint List
+     Difference between Edit and Full control permissions in sharepoint online
+     Difference between read and view permissions in sharepoint online
+     What is parent content type in sharepoint online
+     Difference between list and library in sharepoint online
+     Sharepoint online out of the box features
+     Difference between Site column and list column in sharepoint online
+     How to manage user permission and role in SharePoint online?
+     what is governance tool for SharePoint online
+     How to manage meta data in SharePoint online?
+     How many types of SharePoint site we can create
+     What is SharePoint List Instance?
+     What is SharePoint List Definition?
+     How to configure and manage Search service in SharePoint online ?
+     How to create template of SharePoint online site?
+     How to import and export SharePoint online site as template
+     How to Configure Alert notification in SharePoint online List?
+     Difference between SharePoint online and SharePoint On-prem
+     All Permission of sharepoint online site
+     How to Version Control in sharepoint online site
+     
 
 Sharepoint Onpream
      How to create timer job and how to trigger in sharepoint on prem
@@ -88,6 +111,7 @@ SPFX
      How to create spfx environment variable and how to use
      SharePoint Framework - CRUD operations using No Framework
      How can i use graph api in sharepoint framwork
+     How many ways to deploy SPFx solution in SharePoint.
 
 Git and GitHUB
       **Tutorial**
@@ -129,10 +153,14 @@ React JS
      ReactJS w3 school
 
 PowerPlatform Administrator
-       **Tutorial**
+     **Tutorial**
 
-       **Interview Question**
-     Pipeline for Power platform | Deploy solution to environment   
+     **Interview Question**
+     Pipeline for Power platform | Deploy solution to environment
+     Link : https://www.youtube.com/watch?v=HAhObylsYgw
+Dataverse
+
+
 PowerApps Canvas
        **Tutorial**
 
@@ -145,19 +173,45 @@ PowerApps Modern Driven App
        **Interview Question**
      Model driven in powerapps
      UI/UX design components for Power Apps model-driven apps
-     Powerpages PCF control create and use
+     
 PowerAutomate cloud flow    
        **Tutorial**
 
        **Interview Question**
-     Powerautomate approval flow where we can configer for 7 days after notification   
+     Powerautomate approval flow where we can configer for 7 days after notification 
+     How can I improve performance of my Power Automate?
+     How Many Days We can restore deleted of power automate and powerapps
 PowerAutomate Desktop flow  
        **Tutorial**
 
        **Interview Question**
+
+PowerBI
+Powervirtual agent
+PowerPages
+     Powerpages PCF control create and use
+     Link : https://www.youtube.com/watch?v=u3MlUIkzFzo
 Azure
      Create azure devops pipeline using github
+     Link : https://www.youtube.com/watch?v=kirFyVGeCfo
+     Azure Functions
+     Azure logic apps
+     Azure key valut
+     Azure runbook
+     Azure devOps
 
 ShareGate
      How to migrate SharePoint Online sites to another SharePoint Online environment | ShareGate | M365
+     Link : https://www.youtube.com/watch?v=4CPg5LLCNQk
      Migration Sharepoint OnPremise 2013 to SharePoint Online using ShareGate Tool
+     Link : https://www.youtube.com/watch?v=vE03cgpBVLE
+
+PowerShell
+
+c#
+
+Nintex Form
+infopath form
+Compliance Portal
+CoE Starter Kit
+Knowledge
