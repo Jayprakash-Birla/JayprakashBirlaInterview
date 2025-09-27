@@ -1,16 +1,29 @@
+     if Ost file is corrupt of m365,how can we resolve?
+
 English Video
      Niharika english teacher
      10 English Adjectives To Describe Someone’s Voice | English Vocabulary Lesson | Learn English 
 
 M365
+     Microsoft 365 services
+     what is key component of m365?
 
 Sharepoint Administrator
       **Tutorial**    
      The key differences between Microsoft 365 vs. Office 365
       **Interview Question**
      Explore more feature in SharePoint online admin center
+     How to enable external user access in SharePoint online site?
+     How to restrict external user access in SharePoint?
+     What is Microsoft SharePoint
+     what is difference between Microsoft 365 and office 365
+     what is Autodiscover service
+     How to identify spam email in Microsoft
+     What are the identity models available in M365
+     what is email Alias?
+     
 
-Sharepoint Online
+4. Sharepoint Online
       **Tutorial**
 
       Overview of the "Connect to new Microsoft 365 group" feature
@@ -49,11 +62,34 @@ Sharepoint Online
      Difference between SharePoint online and SharePoint On-prem
      All Permission of sharepoint online site
      How to Version Control in sharepoint online site
+     Sharepoint security modal
+     How to manage user permission and role in SharePoint online?
+     How to manage meta data in SharePoint online?
+     How many types of SharePoint site we can create
+     How to configure and manage Search service in SharePoint online?
+     How to build a SharePoint Intranet Theme
+     CSOM
+     SharePoint migrations
+     SharePoint customization
+     SharePoint webparts
+     SharePoint master pages
+     SharePoint managed metadata
+     Content types
+     Site column
+     List template
+     Site template
+     Site definitions
+     Which column not support in list formatting
+     How to create template of SPO site
+
      
 
-Sharepoint Onpream
+5. Sharepoint Onpream
      How to create timer job and how to trigger in sharepoint on prem
-SPFX
+
+Rest Api
+     Difference between rest api in delete and update
+6. SPFX
       **Tutorial**
 
       Overview of the SharePoint Framework
@@ -112,6 +148,8 @@ SPFX
      SharePoint Framework - CRUD operations using No Framework
      How can i use graph api in sharepoint framwork
      How many ways to deploy SPFx solution in SharePoint.
+     How to create Environment Variable in SPFX and how to use
+     How to Get permission of current users in SPFX via PNP JS
 
 Git and GitHUB
       **Tutorial**
@@ -154,22 +192,56 @@ React JS
 
 PowerPlatform Administrator
      **Tutorial**
+     Overview of the Power Platform admin center
+     Application lifecycle management (ALM) with Microsoft Power Platform
 
      **Interview Question**
      Pipeline for Power platform | Deploy solution to environment
      Link : https://www.youtube.com/watch?v=HAhObylsYgw
+     Overview of pipelines in Power Platform
+     Power Platform Architecture Governance
+     Powerplatform DLP policies
+     Powerplatform environment
 Dataverse
 
 
 PowerApps Canvas
-       **Tutorial**
-
+     Documentation : https://learn.microsoft.com/en-us/power-apps/powerapps-overview
+     Microsoft Power Apps documentation
+     Solutions in Power Apps overview
        **Interview Question**
-   UI/UX design components for Power Apps canvas apps
+     UI/UX design components for Power Apps canvas apps
+     creating Custom Web resources for PowerApps
+     Developing and using custom connectors in powerapps
+     Power Platform Architecture Governance and experience in design solution in Power Platform
+     Component of powerapps
+     How Many Days after We can restore delete power automate and PowerApps
+     How can restore deleted power automate via PowerShell
+     How can restore deleted Powerapps via PowerShell
+     How to restrict PowerApps delete by co-owner using power platform environment
+     What is the Solution in PowerApps and how can we migrate one to another environment
+     How to deploy power platform solution automatically via pipeline in one to another environment
+     how to create environment variable and how to use in PowerApps and power automate
+     what is the difference between PowerApps variable and PowerApps collection
+     How to get more then 2000 items in PowerApps with filter after delegation
+     Is it possible to connect any other data source in model driven app in PowerApps
+     Can i use non-business DLP connector in power automate or PowerApps?
+     What is new in PowerApps
+     How to Approve my request via PowerApps
+     PowerApps in get all my pending approval details
+     New feature in PowerApps
+     Named Formula in PowerApps
+     How can I Skip app.onstart in PowerApps
+     Type of collection
+     Exception handling in PowerApps
+     Responsive according tool
+     UI/UX Design Component for PowerApps 
+     Create new sharepoint site via Wizard
+
 
 PowerApps Modern Driven App
        **Tutorial**
-
+     Model-driven apps developer documentation
        **Interview Question**
      Model driven in powerapps
      UI/UX design components for Power Apps model-driven apps
@@ -181,6 +253,26 @@ PowerAutomate cloud flow
      Powerautomate approval flow where we can configer for 7 days after notification 
      How can I improve performance of my Power Automate?
      How Many Days We can restore deleted of power automate and powerapps
+     Powerautomate workflow Automation Engineering
+     Powerautomate workflow Automation Engineering
+     How to get failed flow list in powerautomate
+     When we need to require create child flow in power automate?
+     How to get more than 10 lac items via get items action in power automate
+     when we need to use http action and when we need to use default action for run child flow
+     Limit of Get History of power automate and how can we get more then 30 days flow History
+     How to get more than 5000 items to SharePoint list in power automate
+     SharePoint list Modified by item on trigger Power automate flow
+     How to Trigger power automate flow by on click of button
+     limitation Rest API in a day in power automate and how can we fix it?
+     What happened if my child flow continues failed and how can we get information in parent flow
+     How to fix if my approval email is not approve request in 30 days and what happen if not approve , how can increase days, how to jump next approver in power automate
+     What happened if approval is not approve long time and how can we fix
+     Limitation in power automate
+     Power automate limitation in actions, conditions, variables, approvals, connectors and Apis
+     How can we break permission in power automate and insert item in SharePoint list
+     Approval flow steps
+
+
 PowerAutomate Desktop flow  
        **Tutorial**
 
@@ -191,6 +283,9 @@ Powervirtual agent
 PowerPages
      Powerpages PCF control create and use
      Link : https://www.youtube.com/watch?v=u3MlUIkzFzo
+     Get started with Power Pages tutorials
+
+Copilot
 Azure
      Create azure devops pipeline using github
      Link : https://www.youtube.com/watch?v=kirFyVGeCfo
@@ -199,6 +294,27 @@ Azure
      Azure key valut
      Azure runbook
      Azure devOps
+     Azure DevOps CICD Pipelines
+     Consume functions APIs to retrieve update data from the database
+     Microsoft Azure Enterprice
+     AZFS in m365? and where we can use?
+     what is conditional access in azure active directory?
+     Can we use azure ad instead of active directory?
+     How to create Azure Run book
+     Where we can Deploy PowerShell script which run every day
+     What is Azure CLI and how to use
+     What Azure Function and how to create
+     How we can trigger Azure function 
+     What Azure Logic apps and how to create
+     How we can trigger Azure Logic apps
+     Azure Storage account
+     Azure web apps
+     Azure functions
+     Azure logic apps
+     Azure Service bus topics
+     Azure key vault
+     Azure DevOps
+     
 
 ShareGate
      How to migrate SharePoint Online sites to another SharePoint Online environment | ShareGate | M365
@@ -207,11 +323,31 @@ ShareGate
      Link : https://www.youtube.com/watch?v=vE03cgpBVLE
 
 PowerShell
+     Write here 10 PNP PowerShell commend
+     PowerShell to Crud operation command pnp js
+     How to Get more than 5000 items in PowerShell
+     How to MFA issue fix in powershell Script
+     How many ways to create item in SharePoint by PowerShell
+     How to Create a Scheduled Task for PowerShell Script with Windows Task Scheduler?
+     SharePoint Content type how can we migrate SharePoint using powershell?
+     SharePoint list how can we migrate using powershell?
+     how to migrate permissions in SharePoint using PowerShell
+     How to import and export content type in SharePoint using PowerShell
+     Command form enbale custom script in sharepoint by powershell
+     Create SharePoint Custom List using powershell
+     How to create Site Level app Catalog using powershell
+     How to update user property via PowerShell
+     Change content type via PowerShell script
 
 c#
 
 Nintex Form
 infopath form
 Compliance Portal
+     What is difference between e1 , e3 , e5 license?
+     what is compliance center and who can access it?
+     what do you understand by compliance center?
+     Define types of email migration?
+
 CoE Starter Kit
 Knowledge
