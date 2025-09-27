@@ -1,0 +1,3566 @@
+
+
+
+1.	M365
+2.	SharePoint Admin portal
+3.	SharePoint Online
+4.	SPFX
+5.	SharePoint onpream
+6.	Power platform Admin portal
+7.	Dataverse
+8.	PowerApps Canvas
+9.	PowerApps Model Driven app
+10.	PowerApps desktop
+11.	Power Automate
+12.	Power Automate Desktop
+13.	PowerBI
+14.	Power Virtual Agent
+15.	Power Pages
+16.	Copilot
+17.	Azure
+18.	Azure services
+19.	AWS
+20.	Sharegate 
+21.	DOTNet core 6 Web API
+22.	GitHub
+23.	Docker Hub
+24.	PostgreSQL – It is a database
+25.	Entity framwork – it is use in consol application
+26.	Internet information server configuration
+27.	Domain Controller
+28.	Active Directory Setup
+29.	Azure Entra
+30.	React js
+31.	C#
+32.	PowerShell
+33.	Graph api
+34.	
+
+
+
+
+
+SharePoint Online
+
+
+Power Automate
+
+Azure
+
+PowerShell
+
+Use flow in PowerApps solutions
+Environment variable 
+Environment reference
+
+
+How to create Sharepoint site as Template
+How to use created template in sharepoint online site
+How to import and export  sharepoint online site as template
+How to import  sharepoint online site as template
+What is size limitation of  sharepoint online site as template
+How to increase size of SharePoint site as template via PowerShell
+Create custom Json for sharepoint site template
+How to create sharepoint online site as template via powershell
+All Permission of  sharepoint online site
+How to create Document management in  sharepoint online online
+How to Configure in azure for graph api access
+How to get data from sharepoint list graph api
+How to Version Control in sharepoint online site
+Enable and configure versioning for a list or library
+How to manage Search and Retrieval in sharepoint online site
+How to improve performance of search in sharepoint online site
+How to give Uniqe permsstion to user in a list sharepoint site online
+How to apply Security and Permissions in sharepoint online site
+What is Parent Content Type?
+what is Parent and child content types
+what is site column and list column in sharepoint online site
+How to Set up Workflows in sharepoint online list
+Configer powerapps link in sharepoint online list item with edit and new item form link
+configuring security roles in sharepoint site
+Overview of the SharePoint Framework
+Why the SharePoint Framework?
+Set up your Microsoft 365 tenant in SPFX
+Set up your SharePoint Framework development environment
+Overview of SharePoint client-side web parts
+Build your first SharePoint client-side web part 
+Which type of Ask question when we create spfx webpart
+What is SharePoint Workbench in spfx
+What is Local Workbench in spfx
+What all the version of node js
+Connect your client-side web part to SharePoint
+Deploy your client-side web part to a SharePoint page
+Host your client-side web part from Microsoft 365 CDN
+Integrate web part properties with SharePoint
+Make your SharePoint client-side web part configurable
+Validate web part property values
+Build custom controls for the property pane
+Use cascading dropdowns in web part properties
+Simplify adding web parts with preconfigured entries
+Configure web part icon
+Hide a web part from the toolbox
+Use Office UI Fabric React components in your SharePoint client-side web part
+Use web parts with the full-width column
+Determine the rendered web part size
+Supporting section backgrounds
+Adding support for web part Top Actions
+Isolated web parts
+Using single part app pages in SharePoint Online
+Building Microsoft Teams Tabs using SharePoint Framework
+Hosting Microsoft Teams Tabs as a solution in SharePoint
+Add jQueryUI Accordion to your SharePoint client-side web part
+Use Microsoft Graph in your solution
+Build a SharePoint web part with the Microsoft Graph Toolkit
+Microsoft Graph Toolkit overview
+Provision SharePoint assets from your SharePoint client-side web part
+Build Microsoft Teams tab using SharePoint Framework - Tutorial
+Overview of SharePoint Framework Extensions
+Build your first SharePoint Framework Extension
+Use page placeholders from Application Customizer
+Deploy your extension to SharePoint
+Host an SPFx extension from the Microsoft 365 CDN
+Configure extension icon
+Build your first Field Customizer extension
+Build your first ListView Command Set extension
+Modifying Microsoft Search experience using SharePoint Framework extensions
+Build your first Form Customizer extension
+Tenant-wide Deployment of SharePoint Framework Extensions
+Pre-allocate space for SharePoint Framework extension placeholders
+Using library component type in SharePoint Framework
+Build solutions with the library component type in SharePoint Framework
+Publish SharePoint Framework applications to the marketplace
+Prepare your SharePoint Framework application for publishing to the Marketplace
+Maintain and support your published app
+Migrate existing Script Editor web part customizations to the SharePoint Framework
+Migrate jQuery and DataTables solution built using Script Editor web part to SharePoint Framework
+Migrate jQuery and FullCalendar solution built using Script Editor web part to SharePoint Framework
+Migrate AngularJS applications to SharePoint Framework
+Work with __REQUESTDIGEST
+Connect to SharePoint using the JavaScript Object Model (JSOM)
+Migrating JSLink customizations to SharePoint Framework Field Customizers
+Migrating user custom actions and ECB menu items to SharePoint Framework Extensions
+Migrate Edit Control Block (ECB) menu items to SharePoint Framework extensions
+Migrating from JSLink to SharePoint Framework extensions
+Migrating from UserCustomAction to SharePoint Framework extensions
+Add an external library to your SharePoint client-side web part
+Use existing JavaScript libraries in SharePoint Framework client-side web parts
+Reference third-party CSS styles in SharePoint Framework web parts
+Connect to SharePoint APIs
+Use the MSGraphClientV3 to connect to Microsoft Graph
+Connect to Azure AD-secured APIs in SharePoint Framework solutions
+Working with the AADTokenProvider
+Connect to anonymous APIs
+Subscribe to list notifications
+Consume the Microsoft Graph in the SharePoint Framework
+Consume enterprise APIs secured with Azure AD in SharePoint Framework
+Consume multi-tenant enterprise APIs secured with Azure AD in SharePoint Framework
+SharePoint solution packaging
+Update SharePoint Framework packages
+Enable the Microsoft 365 CDN
+Deploy your SharePoint client-side web part to Azure CDN
+Deployment options for SharePoint Framework solutions for Microsoft Teams
+Integrate gulp tasks in SharePoint Framework toolchain
+Extending Webpack in the SharePoint Framework toolchain
+Tenant-scoped solution deployment for SharePoint Framework solutions
+Optimize SharePoint Framework builds for production
+Localize SharePoint Framework client-side web parts
+Try SharePoint Framework preview capabilities
+SharePoint Online tenant properties
+Provision SharePoint assets with your solution package
+Implement Continuous Integration and Continuous deployment using Azure DevOps
+Implement Continuous Integration and Continuous deployment using Azure Pipelines
+Designing great SharePoint experiences
+Designing a SharePoint web part
+Reactive and nonreactive SharePoint web parts
+SharePoint grid and responsive design
+Titles and descriptions for SharePoint web parts
+Commanding within a web part
+SharePoint web part layouts
+SharePoint web part levels
+UI text guidelines for SharePoint web parts
+Placeholders and fallbacks in SharePoint web parts
+Empty state of a web part
+Accessibility in SharePoint web part design
+Key web part examples
+SharePoint web part design showcase: Create a To-Do list property pane
+Use SharePoint brand center fonts in SharePoint Framework solutions
+Use custom dialog boxes with SharePoint Framework Extensions
+Recommendations for working with CSS in SharePoint Framework solutions
+Debug SharePoint Framework solutions in Visual Studio Code
+Debug SharePoint Framework solutions on modern SharePoint pages
+Use the developer dashboard
+Maintenance mode for client-side web parts
+Extend Outlook and Office with the SharePoint Framework
+Introduction to SharePoint Embedded
+Understand the structure of SharePoint Embedded
+Overview of Viva Connections Extensibility
+SharePoint Framework roadmap
+SharePoint Embedded for Visual Studio Code
+SharePoint Embedded container management in PowerShell
+Developer Admin
+The SharePoint Embedded administrator
+Security and Compliance
+Enabling Document Processing with Azure Cognitive Services
+Using Webhooks
+Tutorial For Migrating Content From Azure Blob Storage Container To SharePoint Embedded Container
+Expose SharePoint Framework web parts in Microsoft Teams
+Configure SharePoint Framework web parts in Microsoft Teams
+Build Microsoft Teams tab using SharePoint Framework - Tutorial
+How to change Version of spfx package solution
+
+What is gulp serve
+What is yoman
+What is cli
+What is –ship
+Local workbench
+How to change url of site
+What is local workbench url
+Read defalt extension code
+Read default webaprt code
+What is package.json
+17.Vistual studio is Required or any other editors are available
+18.How many question ask when we create header and footer
+Extension
+19.Type of Extension
+20.How many type are project we can create in application customizer
+21.Application Customizer
+22.Field customizer
+23.Listview command set
+24.Form customizer
+25.Type of component like extention
+26.File structure in spfx
+27.What is .ts
+28.How many default package
+29.Place holder in application customizer
+30.What is fabric ui and how to install
+31.Add css
+32.Create my custom css and js
+33.How many ways to import external Css or js
+34
+35.What is node-module
+36.Application customzizer which lengvage we can use defalult
+37.What is render
+38.What is extend
+39.What is onInit
+40.What is public and privet 
+41.What is promise.resolve
+42.What is interface
+43.What is consutructore
+44.What is super 
+45.How to create header and footer in spfx
+46.Sppkg file 
+47.Create and add new property
+48.How to create app catalog
+49.How to enable in your tenant app catalog
+50.How to reupload same spfx webpart
+51.Change version of package
+52.Permanently delete my spfx app
+53.How to deploy package command
+54.How many ways to deploy spfx code
+55.What is webaprt
+56.What is extentionn
+57.What is library spfx
+58.Adaptive card extension
+59.How to delete in spfx webpart
+60.Delete apps from recycle first and second stage
+61.Application customizer default language
+62.Use page placeholders from application customizer
+63.How to scss
+64.Get login user name
+65.Diploy.alert
+66.onDispose
+67.what is gulp sever , gulp no browser
+68.How to put in production
+69.How to create spfx for local
+70.Where I can find sppkg file
+71.All client site webaprt topic
+72
+73.Sharepoint onpream
+74.Visual studio in set up sharepoint
+75.Types of site
+76.Timer jobs
+77.Form solution
+78.Sandbox solution
+79.Create custom workflow
+80.Modernizing SharePoint solution
+81.Migrating SharePoint services to Microsoft Azrue
+82.Sharepoint from management 
+83.Sql server
+84.create context with c#
+85.C# crud with c#
+86.File upload with c#
+87.File Break in chunk in c#
+88.Get login user detail in c#
+89.Whindows server
+90.Active Directory
+91.Event receiver
+92.Network Sharedrive confirgation
+93
+Rest api
+What is rest api
+Keywords in restapi
+Filter in sharepoint 
+Get more then 5000 teams in rest api
+
+What is import and export
+1.All Feature of SharePoint Admin centre @
+2.How to apply file activity auditing via SharePoint admin center @
+3.Migration of SharePoint via SharePoint admin center @
+4.Limit of days to restore sharepoint deleted site @
+5.How to restore deleted sharepoit site via powershell @
+6.Limit of days to restore sharepoint deleted files and folders @
+7.What is sara tool @
+8.How to check SharePoint Usage @
+9.How to check health in SharePoint Admin center and what is use @
+10.Check Sharing permission in SharePoint site @
+11.How to check Site Storage in SharePoint site @
+12.How to delete SharePoint site via pnp powershell  @
+13.How to give sharepoint site access to external users @
+14.How to check access External users in SharePoint site @
+15.How to check user permission in SharePoint site @
+16.What is the security Group in SharePoint site @
+17.How content is shared inside and outside organization @
+18.How to create Policy for SharePoint @
+19.What is Governance and compliance policy in sharepoint @
+20.How to manage storage for SharePoint and OneDrive @
+21.how to Restore a deleted OneDrive @
+22.How to manage the taxonomy and metadata for SharePoint content @
+23.How to add term store in SharePoint list  @
+24.How to update term store column in SharePoint list via c# @
+25.How to update term store column in SharePoint list via spfx @
+26.How to update term store column in SharePoint list via rest api @
+27.How to manage apps available in SharePoint environment @
+28.How to configure Search setting and manage search result in SharePoint @
+29.How users and devices access SharePoint online @
+30.How to maintain compliance with legal and regulatory requirement @
+31.What is viva 
+32.How to manage organization viva connection setup for a unified employee experience
+33.What is hub site 
+34.How to create Hub site
+35.How to set policy in hub site
+36.How to configure branding in hub site
+37.What is migration manager in sharepoint 
+38.How to migrate data sharepoint online to sharepoint onpream 
+39.How to check service health in sharepoint
+40.What is classic feature management in admin center
+41.What is ondrive management in Sharepoint Admin center
+42.What is Multilingual Experience in admin center
+43.How to check external sharing repoint via admin center
+44.How to control external sharing files via admin center 
+
+
+47.How to Give SharePoint site administrator Access via PowerShell 
+48.How to restore delete sharepoint site via PowerShell
+
+50.What is SharePoint @
+51.How to document manage in SharePoint
+52.How to create intranet in SharePoint
+53.What is team sites
+54.How to create custom workflow and automation in SharePoint
+55.What is matadata in SharePoint
+56.How to enable external sharing in SharePoint
+57.How to customize search capabilities
+58.How to enable multifactor authentication 
+59.What is role-based access control in SharePoint
+60.How to apply role-based access control in SharePoint
+61.What is retention policy
+62.How to create retention policy
+63.What is eDiscovery 
+64.How to create DLP policy in SharePoint
+65.Workflow automation in SharePoint
+66.Version control in SharePoint
+67.Document approval in SharePoint
+68.SharePoint instigation with Microsoft 365
+69.Where we can apply custom code in SharePoint 
+70.Create navigation in hub site
+71
+72
+73.How many types of SharePoint site we can create @
+74.How to create team site
+75.How to create communication site
+76.What is difference between team site and communication site
+77.What is document center site in sharepoint
+78.What is record center site in sharepoint
+79.What is Project site in sharepoint
+80.What is Publishing site in sharepoint
+81
+82.What is enterprise Wiki site in sharepoint
+83.What is Custom site template 
+84.How to create Custom site template site in SharePoint
+85.What is Blog site in SharePoint
+86
+87.Create SharePoint team site @
+88.How to change URL of SharePoint team site 
+89.How many webpart in modern team site
+90.How many webpart in Classic site
+91.How to create communication site
+92.How to change the look of team site 
+93
+94.How to Create hub site@
+95.How to site associate with hub site in sharepoint
+96.Limitation of hub site 
+97.Create user
+98.What is SharePoint online
+99.What is SharePoint
+100.SharePoint types
+101.Advantages and Disadvantages of SharePoint
+102.SharePoint features
+103.Default workflow in SharePoint list
+104.Trail setup
+105.What is site collection
+106.How to create site collection
+107.What is team site 
+108.How to create team site 
+109.Visual studio in set up sharepoint
+110.What is Site group
+111.What is Office 365 group
+112.What is site group and office 365 group
+113.Difference between csom and jsom
+114.Difference between communication and team site
+115.Difference between List and Library
+116.difference between display name and internal name
+117.Different between sharepoint Add-in and apps
+118.Different between sharepoint site column and list column
+119.Document management system
+120.Types of sharepoint sites
+121.How to use project sites in sharepoint
+122.What is Hub site
+123.Backup and restore
+124.Enable Custom script from sp admincenter
+125.Check user property from sp admincenter
+126.How to create List in sharepoint
+127.Libraries
+128.Edit a file in a document library
+129.Add a link in a document Library
+130.Creating a Picture library
+131.Upload files to a picture library
+132.Search and Filter in a document library
+133.Collaboration in the document library
+134.SharePoint Alerts
+135.Delete file from a document library
+136.SharePoint storage
+137.Audit logs in file
+138.Classic page webpart
+139.Template of webpart and import export
+140.Create custom aspx page
+141.Content search webpart and content query webpart
+142.Script editor and content editor
+143.Impersonation steps
+144.Import export list
+145.List setting filter and group by
+146.List format
+147.List lookup column 
+148.Term store
+149.List calculated column formulas
+150.List view
+151.Task list
+152.What is security group in sharepoint
+153.SharePoint Document sets
+154.Types of permissions in sharepoint site
+155.Types of columns
+156.Insert image type column
+157.Grant and break permissions
+158.Validation in form
+159.What is site column and list column
+160.How to create and use site column
+161.What is content type
+162.How to create content type
+163.How to apply content type in list
+164.InfoPath form
+165.PowerApps form
+166.Migration permission manually
+167.Migration pages manually
+168.Migration list and library manually
+169.Migration SharePoint site manually
+170.Migration webpart manually
+171.Migration content type manually
+172.Migration template as well manually
+173
+174.Sharepoint Default migration tool
+175.Sharepoint life cycle
+176.Retention policy 
+177.i1 , i2 , i3, i4 Label in sharepoint document
+178.hybrid sharepoint environment
+179.indexing and crowling list
+180.types of page layout
+181
+182.what is caml Query 
+183.how to get sharepoint list item via Caml Query
+184.Client site object model in sharepoint and use DLL
+185.Crud with Rest api C#
+186.Crud with CSOM
+187.Crud with ajex
+188.Crud with PNP Js
+189.All rest api which use
+190.Sharepoint Administearor 
+191.Sharepoint add-in
+192.Sharepoint apps 
+193.Sharepoint site setting feature
+194.SharePoint - Packaging & Deploying
+195.What is onedrive
+196.How to change language of sharepoint site
+197.SharePoint site Navigation
+198.What is Site template
+199.How to create site template 
+200.What is page template 
+201.How to create List template
+202.Import data from excel in sharepoint list
+203.Creating a document library
+204.Upload files to a document library
+205.Add column and edit view in the document library
+206.SharePoint Versioning
+207.Create a Survey in SharePoint
+208.Creating a Wiki page Library in SharePoint
+209.Create a Page Template
+210.Create Microsoft FORMS in SharePoint
+211.Parent content type
+212.What is out of box feature
+213.Add an app third party tool
+214.SharePoint Document sets
+215.Doument management sysnter
+216.Search document which lates modifiles
+217.Crowl in search 
+218.Search feature in SharePoint 
+219.How to use webpart in search 
+220.Theme customization and webpart in new pages
+221
+222
+223.Graph api
+224.o365
+225.Powerplatform Admin center
+226.Powerautomate
+227.Powerapps canvas
+228.Powerapps modern 
+229.Data flows
+230.Cards
+231.Select group
+232.Powervirtual agent
+233.Powerpages
+234.Power BI
+235.Azure
+236.React js
+237.Shareget
+238.Nintext flow
+239.Powershell
+240.Onedrive
+241.C#
+242.Graph api
+243.o365
+244.Powerplatform Admin center
+245.Powerautomate
+246.Convert Number to String in powerapps
+247.SDLC in powerapps
+248.Security in powerapp
+249.Azure Devops Version control In powerapps
+250.Agile in powerapps
+251.Waterfall
+252.What is jira
+253.Powerapps modern 
+254.Data flows
+255.Cards
+256.Select group
+257.Power virtual agent
+258.What is powerBI
+259.How to Create Power BI report @
+260.How to install power bi
+261.Connect with data power bi
+262.How to Clean and transform data in power bi
+263.How to create visualization in power bi
+264.How to add filter and Slicer in powerBi
+265.How to Formet your power BI report 
+266.How to create relationships in power BI
+267.How to publish report power BI
+268.How to Schdule data refresh
+269
+270.Automation in Power BI @
+271.Scheduled Data refresh in Power BI
+272.Power automate integration in power bi
+273.Using powerShell Script for Automation in power BI
+274.Data flows in power BI
+275.Pagination report Subscription in power BI
+276.Embedding power BI reports for automated Access
+277.Alert Automation in power BI
+278.Row level Security Automation in power BI
+279.Power BI rest api for automation 
+280
+281.Visualization in Power BI
+282.List of data source
+283.Get data via api
+284.Measure and column
+285.Slicer
+286.Type of Filter
+287.Parameters
+288.Data set
+289.Data view and report view
+290.Types of report
+291.Ask question and create graph
+292.Change the data type in data source
+293.What is report
+294.What is dashboard
+295.How to create List in Dataverse
+296.What types of column we can create in Dataverse
+297.How to apply access permission item level in Dataverse
+298.Liquid Template code in powerpages| Basics of liquid Code | Get Started with Liquid in Portals
+299.Adx tool
+300.Open source
+301.Logic,loops , variable
+302.Dataverse
+303.Before run any client site code
+304.Liquid is server side language
+305.Dynamic 365 portals is software (Saas)
+306.JS vs liquid
+307.Working with data that is sensitive like debug
+308.Interact with MS Sataverse
+309.Access data from portal component like site setting, content snippetetc
+310.Can‘t get looged in user details role and permissions etc
+311.Server site logic
+312.Event can apply
+313.We can write liquid code in webpage like html and javascript , basic form ., advance form , list , content snippet
+314.Operation : use as web api, write fetch XML , design custom page abd display dynamic content
+315.User object like {{user.fullname}}
+316.Fetch xml
+317.Use site setting
+318.Use content snippet
+319.Use Site marker
+320.Use basic form
+321.Use entity list
+322.Use web template
+323.Liquid template – Microsoft dataverse – specific tags : Chart id
+324.Power bi ID (powerbi embeded)
+325.Code component
+326.Use entity list
+327.Go to powerapps and there web tempelate for liquid code
+328.Fetch xml entity data and for loop
+329.Powerpages
+330.What is React js
+331.What is virtual DOM
+332.Install react js
+333.Learn react without install react JS
+334.Folder and file structure in react JS
+335.Class component in react JS
+336.Function component in react JS
+337.Jsx in react JS
+338.Life cycle methods in react JS
+339.Hooks in react JS
+340.Status in react JS
+341.Props in react JS
+342.Event in react JS
+343.Function in react JS
+344.Listing in react JS
+345.Conditions in react JS
+346.Fragment in react JS
+347.What is DOM
+348.What is React js
+349.CS6 Classes
+350.CS6 Arrow Functions
+351.CS6 Variables (let, const, var)
+352.CS6 Array Methods like .map()
+353.CS6 Destructuring
+354.CS6 Modules
+355.CS6 Ternary Operator
+356.CS6 Spread Operator
+357.What is react JS
+358.React Render HTML
+359.React JSX
+360.React Components
+361.React Class Components
+362.React Props
+363.React Events
+364.React Conditional Rendering
+365.React Lists
+366.React Forms
+367.React Router
+368.React Memo
+369.Styling React Using CSS
+370.Styling React Using Sass
+371.React Hooks
+372.React useState Hook
+373.React useEffect Hooks
+374.React useContext Hook
+375.React useRef Hook
+376.React useReducer Hook
+377.React useCallback Hook
+378.React useMemo Hook
+379.React Custom Hooks
+380.Bootstrap with react js
+381.Forms in react JS
+382.Routing in react JS
+383.API in react JS
+384.Make build in react JS
+385.Puch code in git hub in react JS
+386.Install node
+387.Install NPM
+388.React new feature 
+389.React all hooks list and use
+390.Firnt end farmwork
+391.Angular js 
+392..net
+393.Consol application
+394.Chat GPT to create excel
+395.C#
+396.Powerbi formulas and use
+397.How can we interact sql to powerapps and sharepoint directly via api
+398.O365 tenant to tenant migration
+399.Microsoft outlook administrator
+400.Create application for teams
+401.Create application for office
+402.Create application for outllok
+403.Create application for flow
+404.Create application for powerapps
+405.Create application for onedrive
+
+406.Create application for bookings
+407.Create application for power bi
+408.Create application for sharepoint
+409.Microsoft 365 govenece tools
+410.Spfx 
+411.Azure
+412.Rest api
+413.Bissness application in powerplatform
+414.Setup and manage powerplatform COE 
+415.Web design intranet portal
+416.intranet site in sharepoint
+417.azure Ai based solution
+418.Azure open ai
+419.Azue AI document inteliget service
+420.Azure AI cognitive service
+421.Third partly application with sharepoint
+422.Monitor sharepoint uses and security
+423.Create , deploy , package intranet portal in sharepoint site
+424.Create webside design using ootb
+425.Create Ui extension using SPFX
+426.Create Page layout using SPFX
+427.Create Themes using SPFX
+428.Create Display template using SPFX
+429.Intrgrate external application using rest api
+430.Connect to graph api to automate M365 solutions
+431.Build web component in SharePoint
+432.Build list library in SharePoint
+433.Build content kinds in SharePoint
+434.Site column in SharePoint
+435.Master page in SharePoint
+436.Search navigation in SharePoint
+437.Data management in SharePoint
+438.O365
+439.Powerplatform
+440.Could azure
+441.Sharepoint security architecture using M365 group and sharepount group
+442.Powershell script
+443.Azure resource group
+444.Resourses
+445.Azure web apps
+446.Azure AI services
+447.UI/UX 
+448.Data flows in powerapps
+449.Data verse 
+450.Power pages
+451.AI builder / virtual agent
+452.Powerapps custom connector
+453.Approval flow in powerautomate
+454.Concate and concatenate
+455.Governance jobs for o365
+456.Froms in o365
+457.Teams in o365
+458.Copilot in visual studio
+459.Copilot in PowerApps
+460.Copilot in word
+461.Copilot in excel
+462.Copilot in outlook
+463.Copilot in Sharepoint
+464.RPA
+465.VBA
+466.Monday.com
+467.Confluence
+468.Subscription Edition
+469..net application
+470.Dessing and customize sharepoint solution
+471.Manage Active directry configuration and integration
+472.Sharepoint solution
+473.Goven manage the administrator configrationand security of sharepoint environment
+474
+475.Maintain governance jobs ,flows , report for all o365 services
+476.Sharepoint 2013 full trust code
+477.User control
+478.Feature stapling
+479.Sharepoint client site and serverside object model
+480.Xml
+481.Xsd
+482.UmL
+483.AJAX
+484.PL-200
+485.C#
+486.ASP .NET
+487.WCF
+488.MVC
+489.Dataverse
+490.Nintex flows
+491.Nintex forms
+492.Dataverse with Data model and relationships 
+493.PowerApps formulas
+494.PowerApps security Capabilities
+495.Power Automate Desktop
+496.Power Automate Desktop 
+497.Get data from excel and read power automate desktop
+498.Try catch apply in power automate desktop
+499.Read all action in power automate desktop
+500.Input output variable and flow veriable
+501.Read excel action will Return data as Data table
+502.Write text to file in power automate Desktop
+503.After close Excel instance
+504.How to run power automate desktop
+505.Power Automate Desktop : work with create new list , AddItem to list , remove item from list , clear list
+506.Variables
+507.Create new list
+508.Add item to list
+509.Message box
+510.Display message
+511.Run
+512.Remove item from list
+513.Index
+514.Value
+515.Remove all occurrences
+516.Power Platform Environment
+517.Environment
+518.Environment Groups
+519.Environment Routing
+520.Security roles
+521.Solutions
+522.Environment variables
+523.Azure
+524.React js
+525.Shareget
+526.Nintext flow
+527.Powershell
+528.Onedrive
+529.C#
+530.Sharegate
+531.Migration permission Shareget
+532.Migration pages Shareget
+533.Migration list and library Shareget
+534.Migration SharePoint site Shareget
+535.Migration webpart Shareget
+536.Migration content type Shareget
+537.Migration template as well Shareget
+538.Migration SharePoint to OneDrive
+539.Incremental Migration
+540.Data migration limit 
+541.Limitation migration data
+542.Check Explorer connection
+543.Plan
+544.Copy
+545.All Report
+546.Security
+547.Tasks
+548.scheduled
+549.policies
+550.check in 
+551.Discard checkout
+552.Clean version history
+553.Break inheritance
+554.Restore inheritance
+555.Copy structure and content
+556.Copy content only
+557.Copy items
+558.Copy planner plans
+559.Document set
+560.What is PowerApps pipeline
+561.Azure app services 
+562.azure function 
+563.Azure logic apps
+564.Azure logic app in PowerShell
+565.Azure storage
+566.Azure cLI
+567.Resource group
+568.Modern driven app
+569.Dataverse tutorials 
+570.Project
+571.power bi
+572.Powerpages
+573.Sharegate content management
+574.Explore
+575.Plan
+576.Copy
+577.All report
+578.Security
+579.Tasks
+580.Schedule
+581.Policies
+582.Download
+583.Check in
+584.Discard checkout
+585.Clean version history
+586.Break inheritance
+587.Restore inheritance
+588.Delete permanently
+589.Restore permission inheritance
+590.Copy structure and content
+591.Copy content only
+592.Copy items 
+593.Copy planner plans
+594.How to use Csom in SharePoint crud operation
+595.How to use Jsom in SharePoint crud operation
+596.How to use API in SharePoint crud operation
+597.How to Upload big file in chunk via SharePoint rest api
+598.How to upload a big file in sharepoint document library in chunk pnp js
+599.What is azure login apps
+600.How to create Azure logic apps for SharePoint 
+601.How to trigger Azure logic apps via power automate
+602.How to create a hub site In SharePoint
+603.How to configure hub site with multiple sub site In SharePoint
+604.How to design header and footer in hub site In SharePoint
+605.How to Give access to users in hub site In SharePoint and restrict for some site
+606.Create a new communication SharePoint site via pnp PowerShell?
+607.How to create a new team site via power automate
+608.How to create a new team site via PNP PowerShell
+609.Get all fields of all SharePoint site via PNP PowerShell
+610.How to rename category of content type in SharePoint admin portal
+611.What is environment variable in SPFX
+612.How to create environment variable in SPFX
+613.How to get value from environment variable in SPFX
+614.What is shared group machine in o365 and how to use this machine
+615.How to create shared group machine in o365?
+616.What is shared group machine in o365 and how to use this machine
+617.How to create shared group machine in o365?
+618.Migration permission PowerShell
+619.Migration pages PowerShell
+620.Migration list and library PowerShell
+621.Migration SharePoint site PowerShell
+622.Migration webpart PowerShell
+623.Migration content type PowerShell
+624.Migration template as well PowerShell
+625.Crud with PnpJs powershell 
+626.Crud with CSOM powershell 
+627.Crud with SPO powershell 
+628.Exception handling in powerautomate
+629.Clear list in powerautomate desktop 
+630.all action in powerautomate desktop
+631.Modern Driven application
+632.2.business process flows -1
+633.3.Columns
+634.4.Forms
+635.5.Business rules
+636.6.Relationship
+637.7.keys
+638.8.Dashboard
+639.9.Charts
+640.10.Views
+641.11.Type Dataverse table
+642.Type Dashboard
+643.13.Type custom page
+644.14.1.https://copilot.microsoft.com/
+645.2.copilot in PowerApps 
+646.3.copilot in Power BI
+647.Copilot in PowerApps
+648.Copilot in PowerApps limitation
+649.Copilot in PowerApps Advantage
+650.How to enable copilot for PowerApps and change configuration
+651.PowerApps copilot connector
+652.Create custom copilot in PowerApps
+653.Data retention policy apply in SharePoint site
+654.How to remove data retention policy in specific site
+655.where I can check my deleted sharepoint files after applying data retention policy
+656.what is compliance portal feature in o365 for SharePoint
+657.What is sensitivity label in SharePoint 
+658.How to enable sensitivity label SharePoint document
+659.How to remove sensitivity label form document in SharePoint site via admin portal
+660.What is azure function 
+661.How to create azure function 
+662.Which type of work in SharePoint for create azure function
+663.How to use azure function for SharePoint 
+664.How to trigger azure function by power automate
+665.What is the limitation of PowerApps 
+666.Which data source to get more than 2000 items
+667.How can we get more than 2000 items with delegation issue
+668.How to Give PowerApps access to external users
+669.Create custom connector in PowerApps
+670.Get data from portman API in PowerApps
+671.How to PowerApps in Power BI report?
+672.What is the Avepoint Migration tool
+673.What is different between Avepoint and Sharegate tool
+674.What is Matalogix Migration tool
+675.What is different between Matalogix and Sharegate tool
+676.What is web services in SharePoint
+677.How to create web services for sharepoint 
+678.1. Gatway in powerapps
+679.2.All formulas in powerapps
+680.3.Get more then 5000 items in powerapps
+681.4.Concate and concatimate in powerapps
+682.5.Concurrent in powerapps
+683.6.All control in powerapps
+684.7.Create custom copilot in powerapps
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+3. Moderndriven app
+4. Dataverse tutorials 
+Project
+power bi
+Powerpages
+What is Agile Software Development
+Microsoft power platform development
+Power bI report and dashboard
+PowerApps 
+power automate workflows
+Data verse data modelling
+customization entity field and relationship
+azure services and co-pilot
+Microsoft AI
+strong communication
+power platform app maker Certification
+power platform functional consultant Certification
+power platform security
+performance
+optimization
+scalability
+SharePoint
+power platform governance manage security and license
+MS teams
+power BI
+M365 app suite
+PowerApps model
+create bissness process
+custom connector with Microsoft power Automate
+PowerApps formulas
+api custom connector with in PowerApps
+Microsoft flows with rest api
+MS flow
+CDs
+office 365 platform
+Model driven apps
+UI flows powerapps
+use connector in PowerApps SQL , Jira ,salesforce
+integrate power Bi report and dashboard with PowerApps
+sahrepoint On-primises
+shaepoint online
+custom development
+sharepoine mogration
+spfx webaprt and spfx extentiion
+Ms teams capabilities using apps , bots , and connector
+bulding apps with micorsoft graph
+sharpoint migration sharegate , avepoint , metalogc
+c#
+asp .net
+javascript
+html 5
+css
+xml
+jquery
+sql server
+web services
+sharepoint online
+csom , jsom api
+azure devops
+runbook
+GDPR , HIPAA
+sharepoint sites
+sharepoint developemt and governance
+cross-functinal teams to intigrate sharepoint with other system
+Nintex
+rest api
+powerpages
+power platform solutions
+cofigure dataverse
+data verse data modeling
+Azure services
+power vitula agent
+list libraris 
+webpart
+workflows
+infopath form
+microsoft 365 secrity and complience
+Azure Logic Apps
+Get Sensitivity Label of SharePoint site - Pnp Powershell
+Update Content type of SharePoint site - Pnp Powershell
+Get file report ownership of SharePoint site - Pnp Powershell
+All all SharePoint sites with all property - Pnp Powershell
+Apply Retention policy for SharePoint site
+React JS life cycle where we can apply state in SPFX in class component
+What is default Language of application customizer in extension SPFX
+How to create extension in spfx
+
+What is the Environment in power platform?
+How many types of Environments available in Power Platform? 
+What is Environment history
+How to create Environment in power platform
+What is solution in PowerApps
+How to create Solution in PowerApps
+How to import export solution one environment to another
+What is Publisher in power platform 
+How to create Publisher in PowerPlatform
+What is security group in powerplatform
+How to create security group in power platform
+What is DLP Policy in Power Platform
+How to create DLP Policy in power platform
+What is azure?
+How to create app registration in azure*?
+Microsoft Purview compliance portal
+What is the feature of compliance portal?
+What is Sharepoint?
+What is the Feature of sharepoint Online
+How to get data from sharepoint list graph api from azure portal
+App registration in sharepoint online site
+What is Azure CLI? 
+What is Runbook in azure? 
+How to create Runbook in azure?
+What is azure function?
+How to create azure function? 
+Get started with Power Apps 
+Overview of the Microsoft 365 admin center 
+Administer Microsoft Power Platform
+
+Git hub
+Repository
+How to create birthday wished web part in SharePoint designer
+bot framwork composer for PVA create a new dropdown
+what is nintex license
+all action of Nintex
+how to import and export nintext form 
+infopath form 
+how to use edit and delete form in infopath form
+Can we do CRUD Operations to a SharePoint list and SharePoint library using Power Pages
+Using web parts on SharePoint pages
+Error number with definition
+Difference between 2010 and 2013 sharepoint
+How to feature enable of 2010 and 2013
+What is Microsoft lookbook
+api.jquery.com
+PL-200 all topic
+PowerShell Script to Generate Permission Report for SharePoint Online Site
+what is HTML 5
+Your all project
+what are the different ways to deploy SharePoint add-ins//c# process
+How do you connect (reference) to a SharePoint list and how do you insert a new list items //c# curd
+Plumsail custom form
+Steps to Create a Custom Form with Plumsail
+On prem nintex workflow limitation and advantage and all actions
+Nintex Workflow for SharePoint On-Premises
+check you teams chat question
+Out of search box in SharePoint online
+What is hybrid search in SharePoint online
+Rest api limitation in power automate.
+How many Security groups are available in SharePoint
+How to get environment variable value in power automate
+How to get environment variable value in PowerApps
+How to create custom connector in PowerApps 
+How to use Hosted workbench – Video
+How to use Git hub to upload and Get back repository data
+How to create hub site in sharepoint – video
+How to create page template in sharepoint
+Customize the template of approval email in powerautomate
+how to add content type in SharePoint list
+All project
+Which type of work you done in c#
+Get items via ajex rest api from SharePoint
+Geq filter 
+Call the Azure Function from SharePoint using JavaScript or Power Automate
+create apps
+ARF(Assignment request form) project
+Delegation
+On behalf of amount, we have approval hierarchy.
+Edit form.
+We can click on items and get the details who approved and who is reject.
+Check all history of approver and previous approver.
+Purchase request form.
+Unique identification number
+Delegation
+On behalf of amount, we have approval hierarchy.
+Edit form.
+We can click on items and get the details who approved and who is reject.
+Check all history of approver and previous approver.
+What is Power Apps?
+Design model-driven apps using app designer
+Business process flow
+Overview of application lifecycle management with Microsoft Power Platform
+Overview of the model-driven app designer
+Create a model-driven app with the app designer
+App navigation in model-driven apps
+Add or remove forms, views, or charts
+Work with model-driven app pages
+Powerapp open with sharepoint new button
+Cofigure schedule refress in powerbi
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+Moderndriven app
+Dataverse tutorials 
+Project
+power bi
+Powerpages
+Powerautomate desktop
+How to give access External user of spfx webpart
+Get Azure Ad group in spfx
+Give spfx webpart access to az group users and show hide 
+Spfx webpart show hide for users only sharepoint group users can see
+Break permission of users in spfx by pnp js
+Crud with spfx pnp js
+What is Scrum in agile
+Dataverse
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+Moderndriven app
+Dataverse tutorials 
+Project
+power bi
+Powerpages
+How to apply security for only some users in dataverse
+create a bissnes rule
+business process flow
+work flows
+bissness logic with code in datavers
+limitation to get item in pwoerapps dataverse
+import export dataverse
+import export table
+retention in dataverse
+import data with dataflow connector
+create and edit virtual table in dataverse
+set up virtual table relationship
+table relation ship
+Globle choice column
+use pipelice to simplitfy solution deployment
+dataverse acceletor
+design cards
+AI plugin in powerplatform
+Access migration in dataverse
+work with solution
+create a bissness rule in dataverse
+create moden driven app
+use powerquery
+liquid code in power pages
+What is SharePoint
+Features of SharePoint
+Why SharePoint?
+Content Management System (CMS)
+Advantage and Disadvantage of SharePoint
+Types of SharePoint
+SharePoint Foundation
+SharePoint Server
+Office 365
+what is sharegroup machine in o365 and how to use this machine
+What is Power Apps?
+Explore Power Apps for free for 30 days
+3 . Request a Power Apps license for yourself
+Request Power Apps licenses for your app users
+Sign in to Power Apps
+Get started with Power Apps
+PowerApps environment setting 
+Copilot in Power Apps overview (preview)
+Enable or disable Copilot (preview) in Power Apps
+Build apps through conversation (preview)
+Continue editing your app with Copilot (preview)
+Add a Chatbot control to a canvas app (preview)
+Add a Copilot Control to a canvas app (preview)
+Add a custom Copilot to a canvas app (preview)
+Text generation model (preview) (deprecated)
+Create Power Fx formulas with Copilot
+Use field suggestions by Copilot
+Add the Copilot control to the rich text editor
+Use Copilot in the email rich text editor
+Add Copilot for app users in model-driven apps
+Filter, sort, and search galleries with Copilot (preview)
+Draft well-written input text with Copilot (preview)
+Add knowledge to an existing copilot
+What's new in Power Apps?
+Get your developer environment (preview)
+How to create Intranet theme in sharepoint online
+How to create Intranet theme in sharepoint online
+How to create template of sharepoint online site
+How to use created template in sharepoint site
+How to import and export sharepoint site as template
+How to import sharepoint site as template
+What is size limitation of sharepoint site as template
+How to increase size of SharePoint site as template via PowerShell
+How to create sharepoint site as template via powershell
+All Permission of sharepoint online site
+How to create Document management in sharepoint online
+SharePoint List Item Control
+How Does SharePoint improve performense
+What is Sharepoint?
+What is the Feature of sharepoint Online
+How to get data from sharepoint list graph api from azure portal
+App registration in sharepoint online site
+license about shareget
+all type of migration tool
+migrate list view in SharePoint from shareget
+Explain about your migration project
+Is it possible by shareget term store
+Limitation of shareget
+Advantage of shareget
+How to import and export content type in SharePoint
+Any diffrent tool are available in market like shareget
+How to migrate permisstion in SharePoint shareget
+Page migration to shareget
+check tutorial of shareget
+List migration to shareget
+Content type migration to shareget
+Permission migrate to sharegate is it possible
+users migrate to shareget is it possible
+Learn shareget every thing
+how to connect with SharePoint shareget
+shareget tool limitation
+list out migration tool
+
+
+license about power bi
+what is power bi
+why should we use power bi
+Diffrence between power bi and table Au
+Diffrence between powerQuery and power Pivot
+What is power bi destop
+what is power Pivot
+what is powerQuery
+Describe the component of microsoft self service Bi solution
+Firstly read powerbi all tutorial
+what is Dex in powerbi
+What are filters in power bi
+how to add controls in pwoerbi and use filter
+what are custom visuals in PowerBI
+
+
+
+
+441. license of powerautomate
+442. How to get old PowerAutomate history
+442. How to check version history feature in powerautomate and check old History
+443. Limit rest api in a day powerautomate
+445. Authentication third party in powerautomate
+446. what is use of compose in powerautomate?
+447 Time zone any country to send notification on same time in powerAutomate
+448 limitation of ation in power automate
+449 Change the owner less power automate
+450 Handle error and run next step
+451 How to create custom connector in powerapps
+452 Type of custom connector in powerautomate
+453 How to move PowerAutomate one to another environment
+454 what is power automate desktop
+455 Date convert time zone in powerautomate
+456 How to send email every day same time in different time zone
+458 what is oauth in powerautomate
+459Powerautomate authentication external connector
+460 exception handling in powerautomate
+461more then 5000 items get in sharpeoint list by powerautomate
+
+1What is PowerApps
+2Types of PowerApps
+3How to create Responsive canvas PowerApps
+4Different between modern driven and canvas app
+5How to get more then 2000 items in canvas app 
+6How to Repeated table in PowerApps
+7Limit of nested gallery in PowerApps
+8PowerApps pipeline
+9PowerApps Governance tool
+What is the Environment in power platform?
+How many types of Environments available in Power Platform?
+What is Environment history
+How to create Environment in power platform
+What is solution in PowerApps
+How to create Solution in PowerApps
+How to import export solution one environment to another
+What is Publisher in power platform 
+How to create Publisher in PowerPlatform
+What is security group in powerplatform
+How to create security group in power platform
+What is DLP Policy in Power Platform
+How to create DLP Policy in power platform
+Dataverse
+Challenging thing
+Types of modern driven app
+Info path form
+Deligaton issue
+How to fix Deligaton issue
+Filter ,lookup , search 
+In the sharepoint which are desible and which are not desible
+Deployed in another environment
+How to create solution and migrate
+What is Manage solution and unmanage solution in PowerApps
+Variables in powerapps
+Envirment variable 
+How can get value in powerapps
+Add custom connector in powerapps
+How to post man api data in powerapps
+Connection differences in PowerApps
+Any other filter expeact three
+Concate and cocatinate
+Table and gallery
+How to create cutom component
+Create dynamic component gallery
+What is Powerapps
+Types of PowerApps
+How to create Responsive canvas PowerApps
+Different between modern driven and canvas app
+How to get more then 2000 items in canvas app
+How to Repeated table in powerapps
+Limit of nested gallery in powerapps
+463 license about powerapps
+463 How to add powerapps solution in powerapps
+465 How to fix delegation issue in powerapps
+466 How to publish Powerapps with external users
+467 What is PowerApps
+468 What is delegation issue in powerapps
+469 limit powerapps item get and how to fix
+
+470 Difference between patch and submit
+471Different between concat and concatenate
+472difference between blank and empty in powerapps
+473 Why use launch and parameter in powerapps
+learn powerapps all function
+what is connection in powrapps
+How to move apps one to another envirement
+What are all command powerapps Module
+list out some of the commands in the powerapps module
+External user use Powerapps
+
+
+
+2. React js how to change state in function component
+React js how to change state in class component
+React js how to update props value is it possible 
+Props value how to transfer one component to another 
+Life cycle in class component
+Life cycle  In function component 
+423. Difference between state and props
+421. Lifecycle react js
+422. React tools include REact profiler/component , react-dom,redux, reduxthunk/saga
+420. Arrow Function in react js
+424. What is react js all W3 school
+425. What is life cycle of SharePoint
+426. React js class component life cycle
+427. react js function component life cycle
+428. How to update state in class component
+429. How to update state in function component
+430. What is hooks function and how many hooks in react js
+431. What is JSX in react js
+432. ES6 function in react js
+433. What is Current Version of React JS and what is new update
+434. Right down all hooks list in react js
+436. What is React Router
+437. what is flux in react
+438. What is Redux in React JS
+439. Difference b/w class component and Function component
+440. ES6 class function in react js
+
+How to create header and footer in spfx
+What is the option when we create extension 
+How to create application customizer in spfx
+How to create global variable in spfx
+How to create Field Customizers in spfx
+How to create Command Sets in spfx
+How to create Form Customizers in spfx
+How to connect spfx to azure group and azure ad users
+How to Create people picker field in spfx 
+Create custom search webpart in spfx
+Create dynamic dropdown in property pane one to another  in spfx
+How to call  one function from another in spfx
+Insert item with no javascript in spfx
+Get items with no javascript in spfx
+Delete item with no javascript in spfx
+Update item with no javascript in spfx
+Get more then 5000 items via no javascript in spfx
+Insert item with PNP Js in spfx
+Get items with PNP Js in spfx
+Delete item with PNP Js in spfx
+Update item with PNP Js in spfx
+Get more then 5000 items via PNP Js in spfx
+How to Import export spfx webpart
+Create environment variable in spfx and get value 
+How to debug spfx deploy code via visual studio
+How to debug spfx code in sharepoint
+How to visible spfx webpart for external users
+How to permission break of external user in spfx
+How to give edit permission to user who have read permission in SharePoint list in spfx
+44. How to create file via pnp js in spfx
+45. Upload file in chunk via pnp js in spfx
+46. Get user manager detail via pnp js in spfx
+47. Get user details via email in pnp js in spfx
+48. Create custom list or library via spfx is it possible
+49. Changes in sharepoint list insert form in spfx
+50. How to create Outlook add-in in spfx
+51. Create custom sharepoint page via SPFX
+52. How Graph api use in spfx
+53. How to use Fabric ui control in spfx and install
+54. How to install bootstrap and use in spfx
+408. How kind of apps can Developed in SPFX?
+406. SPFX PNP js CRUD
+405. SPFX React js CRUD
+404. SPFX Nojavascript CRUD
+403. more then 5000 items get in sharpeoint list by PNP js
+402. How to Deploy SPFX webpart
+401. What is Constructor
+
+
+
+All Feature of SharePoint Admin centre
+How to apply file activity auditing via SharePoint admin center 
+Migration of SharePoint via SharePoint admin center
+Limit of days to restore sharepoint deleted site
+How to restore deleted sharepoit site via powershell
+Limit of days to restore sharepoint deleted files and folders
+What is sara tool
+How to check SharePoint Usage in sharepoint admin center
+How to check health in SharePoint Admin center and what is use
+How to Check Sharing permission in SharePoint site
+How to check Site Storage in SharePoint site
+How to delete SharePoint site via PNP powershell
+How to give sharepoint site access to external users
+How to check access External users in SharePoint site
+How to check user permission in SharePoint site
+What is the security Group in SharePoint site
+How content is shared inside and outside organization
+How to create Policy for SharePoint
+What is Governance and compliance policy in sharepoint
+How to manage storage for SharePoint and OneDrive
+How to Restore a deleted OneDrive
+How to manage the taxonomy and metadata for SharePoint content
+How to add term store in SharePoint list
+How to update term store column in SharePoint list via c#
+How to update term store column in SharePoint list via spfx
+How to update term store column in sharepoint list via rest api
+How to manage apps available in SharePoint environment
+How to configure Search setting and manage search result in SharePoint
+How users and devices access SharePoint online
+How to maintain compliance with legal and regulatory requirement
+what is information classification column in sharepoint list
+what is sensitive column in sharepoint list
+what is diffrence beetween information classification and sensitive column in sharepoint list
+what is system account
+people picker column in sharepoint list
+how to export powerbi report in excel via script
+check in and chekout file in sharepoint online
+powershell In diffrence two object array
+Audit log remove in powerplatform enviroment
+Audit log retian powerplatform admin portal environment via retain
+How can we restore audit log form powerplatform admin portal via retain
+update sepience portal
+Difference between canvas and modern driven apps
+Difference between Collect and Clear Collect
+Difference between Concate and Concatenate
+Delegation issue in canvas PowerApps and how to fix
+Rest API can i use in PowerApps
+External site data how to access in PowerApps
+limitation of data in Canvas PowerApps
+Can we make Responsive canvas app and how?
+How many types of variables in PowerApps 
+How to Get SharePoint site group in PowerApps
+Get SQL data in PowerApps
+Email function in PowerApps : Office365Outlook.SendEmailV2({})
+Can we send a email with attachment through of PowerApps.
+Html and JavaScript in PowerApps.
+Difference between data table and gallery.
+Role based screen How to create.
+Difference between patch and submit form.
+Remove item from collection.
+Remove item from SharePoint list.
+Difference between table and collection.
+What is ForAll function 
+How to import and export PowerApps with flow
+I have a gallery and each row have a check box on click on check box need to sum all item price which check box is true.
+I want book a item in a specific date and time but another user select same date and time and submit the item in same time so how can I fix.
+How to array send power automate to PowerApps
+Type of power automate
+How to share power automate with another person
+Exception handling on power automate
+Use of scope section 
+Which action to assign permission to user on file Which action to Change sender email : Send an email (V2)
+Get more than 5000 items on flow
+or Get more than 5000 items on rest api
+Which action to Change sender email : Send an email (V2)
+Get more than 5000 items on flow
+Get more than 5000 items on rest api
+How to develop Power bi report
+difference between slicers and filters in power bi
+How to Create Relationships between tables in powerBI
+difference between measures  and column in power bi
+How to powerBI report optimization
+Configuring security roles
+Create an app description with Copilot (preview)
+what is manage and unmanage solution
+Azure AD Security Group
+copilot in powerautomate
+what is prompt
+Troubleshoot in Copilot
+Create a new list or library.
+Create site columns, content types, and configure list settings
+Apply a theme.
+Set branding properties like navigation layout, header layout, and header background
+Set a site logo
+Adding links to quick launch or hub navigation
+Trigger a Power Automate flow
+Set regional settings for the site
+Add users and groups to SharePoint roles
+Set external sharing capability for the site
+What is Power Apps?
+Card designer
+App designer
+Explore Power Apps for free for 30 days
+Sign in using Azure B2B collaboration
+Ask a virtual agent
+PowerApps copilot connector 
+create custom copilot in PowerApps
+data retention policy apply in sharepoint site
+How to remove data retention policy in specific site
+where I can check my deleted sharepoint files after applying data retention policy
+what is compilence portal feature in o365 for sharepoint
+what is sensitivity label
+how to enable sensitivity label sharepoint document
+How to remove sensitivity label form document in sharepoint site via admin portal
+What is CI/CD PowerApps? 
+Overview of pipelines in Power Platform
+CEO tool
+govern sharepoint lifecycle
+How to enable audit log in sharepoint site audit log
+How to enable audit log in sharepoint site who are the owners of sites pnp powershell
+get diable user from Azure 
+All Company
+Alleima FM Besiktningsteknik
+Difference between canvas and modern driven apps
+Difference between Collect and Clear Collect
+Difference between Concate and Concatenate
+Delegation issue in canvas PowerApps and how to fix
+Rest API can i use in PowerApps
+External site data how to access in PowerApps
+limitation of data in Canvas PowerApps
+Can we make Responsive canvas app and how?
+How many types of variables in PowerApps 
+How to Get SharePoint site group in PowerApps
+Get SQL data in PowerApps
+Email function in PowerApps : Office365Outlook.SendEmailV2({})
+Can we send a email with attachment through of PowerApps.
+Html and JavaScript in PowerApps.
+Difference between data table and gallery.
+Role based screen How to create.
+Difference between patch and submit form.
+Remove item from collection.
+Remove item from SharePoint list.
+Difference between table and collection.
+What is ForAll function 
+How to import and export PowerApps with flow
+I have a gallery and each row have a check box on click on check box need to sum all item price which check box is true.
+I want book a item in a specific date and time but another user select same date and time and submit the item in same time so how can I fix.
+Get more than 5000 items on rest api
+How to array send power automate to PowerApps
+Type of power automate
+How to share power automate with another person
+Exception handling on power automate
+Which action to assign permission to user on file
+Which action to Change sender email 
+Get more than 5000 items on flow
+
+PowerBi in cusom api 
+powerbi share with external user
+power bi in powerautomate
+How to connect power bi in powerautomate
+Use client ID and secret to connect to PBI report
+Automatic page refresh in Power BI
+Types of filters in Power BI reports
+Slicers in Power BI
+Azure maps in powerbi
+Power BI Report Builder
+create custom graph or view in power bi
+power bi in Github
+appsource
+Copilot in powerbi
+Write Copilot prompts for creating report pages in Power BI
+create measure
+create a button
+Row-level security (RLS) with Power BI
+matrix
+Apply conditional formatting in tables and matrixes
+Create a column chart
+Overview of Copilot for Power BI
+
+
+
+
+
+
+
+Get all owners of sharepint site and office 365 group sites
+Update sharepoint version in document via powershell
+Change sharepoit site storage via powershell
+Powerautomate to get sharepoint site storage quota
+Powershell to update content type in sharepoint site
+Powershell to update Sentitivity lable in sharepoint site
+Powershell to get Sensitivity lable from all sharepoint site
+Powershell to get user manager email via powershell
+powershell to get all sites to sharepoint admin center via powershell
+Get file size in sharepoint via powershell
+Add site admin in sharepoint site via powershell 
+Get azure ad group disable user via powershell
+Get all file ownersehip with permisstion in sharepoint online site
+Get all sharepoint site groups and office 365 group via powershell
+Connection powershell with azure app reagistration certification path
+
+
+
+How to build a SharePoint Intranet Theme
+How to create template of Sharepoint online site
+create custom template in sharepoint online 
+customization in sharepoint theme 
+what is globle term store in sharepoint
+How to create term store in sharepoint online
+How to create content type in sharepoint online
+inheritence in sharepoint
+what form can be create in sharepoint
+How to deploye custom solution in sharepoint 
+what is full form of wsp in sharepoint
+
+what is zone
+name of 5 zone
+How to create backup of sharepoint site
+how many day sharepoint online site to create backup
+name sharepoint permisstion sites
+what the steps to create list
+explian site collection
+what are the type of sharepoint
+what is term store
+what is team site
+default lookup column limit
+how can import and export sp list
+solution of deleted file second recyclebin in sponline with permisstion require
+how to provide access to gmail account in sp
+diff between team site and communication site
+crawl types in sp
+how to indexing in list
+what is document library
+crawler in sharepoint
+Etag in header
+what is impersonation in sharepoint
+internal name and display name
+parent content type in sharepoint
+diff type of template available in sharepoint
+how can we create sp template
+what is default sharepoint seurity group
+customization in sharepoint 
+customiz modern theme
+how to resolve issue when no serch result are shoun for existing content
+how to remove sharepoint site and user profile
+how to change url of sharepoint site
+how to activate audit log setting in sharepoint
+how many days after delete item from recyle bin
+list template and site templte
+audit log setting in sharepoint online via admin center
+what is sharepoint sandbox solution
+how to create sendbox solution
+how to upload send box solution in sharepoint online
+what doucment management feature provided by sharepoint
+diff b/w list and library
+site column and list column
+csom v/s jsom
+type of sharepoint
+diff contribut b/w edit
+import package in solution(wps)
+web solution package in the context of micrsoft sharepoint
+what is storage capacity in sharepoint
+how to wany to create sharepoint list
+what are the limit on the number of item in list and library
+diffrence between microsoft sharepoint and microsoft onedrive
+when should you use team site
+when should you communication site
+thresold issue in list and how to fix
+Document approval process and workflow
+role of matadata in sp content management
+versioning and co-authoring capabilitys
+component of sp site
+what is new feature added in sharepoint
+more then get item from sharepoint list via rest api and how to fix
+what is caml query and get item 
+crud with rest api
+
+
+rest api to fetch all sharepoint sites
+rest api to fetch all sharepoint list
+rest api to fetch sharepoint list all fields
+get lookup column 
+get filter via column
+get top 1 row
+get list item auther details
+get user email from sharepoint list
+orderby in rest api
+get more then 5000 item with pagination
+how to work with jsom
+
+what is timer job
+evevnt receiver
+form solution and sendbox solution
+diff between sync and async event reciver
+what is sharepoint document set
+event receiver deploy in sharepoint site feature
+Migration with shareget
+other tools for migration
+out of box tool other using migration
+shareget tool limitation
+shareget tool benefits
+
+Gallery all item in sharepoint
+for all
+concurrent 
+patch
+submit
+delegation
+reuse the functinality
+how to get all items in load app more then 2000
+export powerapps
+ci/cd in powerapps
+
+
+How to create Sharepoint site as Template
+How to use created template in sharepoint online site
+How to import and export  sharepoint online site as template
+How to import  sharepoint online site as template
+What is size limitation of  sharepoint online site as template
+How to increase size of SharePoint site as template via PowerShell
+Create custom Json for sharepoint site template
+How to create sharepoint online site as template via powershell
+All Permission of  sharepoint online site
+How to create Document management in  sharepoint online online
+How to Configure in azure for graph api access
+How to get data from sharepoint list graph api
+How to Version Control in sharepoint online site
+Enable and configure versioning for a list or library
+How to manage Search and Retrieval in sharepoint online site
+How to improve performance of search in sharepoint online site
+How to give Uniqe permsstion to user in a list sharepoint site online
+How to apply Security and Permissions in sharepoint online site
+What is Parent Content Type?
+what is Parent and child content types
+what is site column and list column in sharepoint online site
+How to Set up Workflows in sharepoint online list
+Configer powerapps link in sharepoint online list item with edit and new item form link
+configuring security roles in sharepoint site
+react , handlebars , knockout , angular , vue.js
+npm, type script , yeoman , webpack , gulp
+How to create Adaptive cards extention
+Overview of the SharePoint Framework(spfx)
+Why the SharePoint Framework?
+Set up your Microsoft 365 tenant in SPFX
+Set up your SharePoint Framework development environment
+Overview of SharePoint client-side web parts
+Build your first SharePoint client-side web part 
+Which type of Ask question when we create spfx webpart
+What is SharePoint Workbench in spfx
+What is Local Workbench in spfx
+What all the version of node js
+Connect your client-side web part to SharePoint
+Deploy your client-side web part to a SharePoint page
+Host your client-side web part from Microsoft 365 CDN
+Integrate web part properties with SharePoint
+Make your SharePoint client-side web part configurable
+Validate web part property values
+Build custom controls for the property pane
+Use cascading dropdowns in web part properties
+Simplify adding web parts with preconfigured entries
+Configure web part icon
+Hide a web part from the toolbox
+Use Office UI Fabric React components in your SharePoint client-side web part
+Use web parts with the full-width column
+Determine the rendered web part size
+Supporting section backgrounds
+Adding support for web part Top Actions
+Isolated web parts
+Using single part app pages in SharePoint Online
+Building Microsoft Teams Tabs using SharePoint Framework
+Hosting Microsoft Teams Tabs as a solution in SharePoint
+Add jQueryUI Accordion to your SharePoint client-side web part
+Use Microsoft Graph in your solution
+Build a SharePoint web part with the Microsoft Graph Toolkit
+Microsoft Graph Toolkit overview
+Provision SharePoint assets from your SharePoint client-side web part
+Build Microsoft Teams tab using SharePoint Framework - Tutorial
+Overview of SharePoint Framework Extensions
+Build your first SharePoint Framework Extension
+Use page placeholders from Application Customizer
+Deploy your extension to SharePoint
+Host an SPFx extension from the Microsoft 365 CDN
+Configure extension icon
+Build your first Field Customizer extension
+Build your first ListView Command Set extension
+Modifying Microsoft Search experience using SharePoint Framework extensions
+Build your first Form Customizer extension
+Tenant-wide Deployment of SharePoint Framework Extensions
+Pre-allocate space for SharePoint Framework extension placeholders
+Using library component type in SharePoint Framework
+Build solutions with the library component type in SharePoint Framework
+Publish SharePoint Framework applications to the marketplace
+Prepare your SharePoint Framework application for publishing to the Marketplace
+Maintain and support your published app
+Migrate existing Script Editor web part customizations to the SharePoint Framework
+Migrate jQuery and DataTables solution built using Script Editor web part to SharePoint Framework
+Migrate jQuery and FullCalendar solution built using Script Editor web part to SharePoint Framework
+Migrate AngularJS applications to SharePoint Framework
+Work with __REQUESTDIGEST
+Connect to SharePoint using the JavaScript Object Model (JSOM)
+Migrating JSLink customizations to SharePoint Framework Field Customizers
+Migrating user custom actions and ECB menu items to SharePoint Framework Extensions
+Migrate Edit Control Block (ECB) menu items to SharePoint Framework extensions
+Migrating from JSLink to SharePoint Framework extensions
+Migrating from UserCustomAction to SharePoint Framework extensions
+Add an external library to your SharePoint client-side web part
+Use existing JavaScript libraries in SharePoint Framework client-side web parts
+Reference third-party CSS styles in SharePoint Framework web parts
+Connect to SharePoint APIs
+Use the MSGraphClientV3 to connect to Microsoft Graph
+Connect to Azure AD-secured APIs in SharePoint Framework solutions
+Working with the AADTokenProvider
+Connect to anonymous APIs
+Subscribe to list notifications
+Consume the Microsoft Graph in the SharePoint Framework
+Consume enterprise APIs secured with Azure AD in SharePoint Framework
+Consume multi-tenant enterprise APIs secured with Azure AD in SharePoint Framework
+SharePoint solution packaging
+Update SharePoint Framework packages
+Enable the Microsoft 365 CDN
+Deploy your SharePoint client-side web part to Azure CDN
+Deployment options for SharePoint Framework solutions for Microsoft Teams
+Integrate gulp tasks in SharePoint Framework toolchain
+Extending Webpack in the SharePoint Framework toolchain
+Tenant-scoped solution deployment for SharePoint Framework solutions
+Optimize SharePoint Framework builds for production
+Localize SharePoint Framework client-side web parts
+Try SharePoint Framework preview capabilities
+SharePoint Online tenant properties
+Provision SharePoint assets with your solution package
+Implement Continuous Integration and Continuous deployment using Azure DevOps
+Implement Continuous Integration and Continuous deployment using Azure Pipelines
+Designing great SharePoint experiences
+Designing a SharePoint web part
+Reactive and nonreactive SharePoint web parts
+SharePoint grid and responsive design
+Titles and descriptions for SharePoint web parts
+Commanding within a web part
+SharePoint web part layouts
+SharePoint web part levels
+UI text guidelines for SharePoint web parts
+Placeholders and fallbacks in SharePoint web parts
+Empty state of a web part
+Accessibility in SharePoint web part design
+Key web part examples
+SharePoint web part design showcase: Create a To-Do list property pane
+Use SharePoint brand center fonts in SharePoint Framework solutions
+Use custom dialog boxes with SharePoint Framework Extensions
+Recommendations for working with CSS in SharePoint Framework solutions
+Debug SharePoint Framework solutions in Visual Studio Code
+Debug SharePoint Framework solutions on modern SharePoint pages
+Use the developer dashboard
+Maintenance mode for client-side web parts
+Extend Outlook and Office with the SharePoint Framework
+Introduction to SharePoint Embedded
+Understand the structure of SharePoint Embedded
+Overview of Viva Connections Extensibility
+SharePoint Framework roadmap
+SharePoint Embedded for Visual Studio Code
+SharePoint Embedded container management in PowerShell
+Developer Admin
+The SharePoint Embedded administrator
+Security and Compliance
+Enabling Document Processing with Azure Cognitive Services
+Using Webhooks
+Tutorial For Migrating Content From Azure Blob Storage Container To SharePoint Embedded Container
+Expose SharePoint Framework web parts in Microsoft Teams
+Configure SharePoint Framework web parts in Microsoft Teams
+Build Microsoft Teams tab using SharePoint Framework - Tutorial
+How to change Version of spfx package solution
+
+7.What is gulp serve
+8.What is yoman
+9.What is cli
+10.What is –ship
+11.Local workbench
+12.How to change url of site
+13.What is local workbench url
+14.Read defalt extension code
+15.Read default webaprt code
+16.What is package.json
+17.Vistual studio is Required or any other editors are available
+18.How many question ask when we create header and footer
+Extension
+19.Type of Extension
+20.How many type are project we can create in application customizer
+21.Application Customizer
+22.Field customizer
+23.Listview command set
+24.Form customizer
+25.Type of component like extention
+26.File structure in spfx
+27.What is .ts
+28.How many default package
+29.Place holder in application customizer
+30.What is fabric ui and how to install
+31.Add css
+32.Create my custom css and js
+33.How many ways to import external Css or js
+34
+35.What is node-module
+36.Application customzizer which lengvage we can use defalult
+37.What is render
+38.What is extend
+39.What is onInit
+40.What is public and privet 
+41.What is promise.resolve
+42.What is interface
+43.What is consutructore
+44.What is super 
+45.How to create header and footer in spfx
+46.Sppkg file 
+47.Create and add new property
+48.How to create app catalog
+49.How to enable in your tenant app catalog
+50.How to reupload same spfx webpart
+51.Change version of package
+52.Permanently delete my spfx app
+53.How to deploy package command
+54.How many ways to deploy spfx code
+55.What is webaprt
+56.What is extentionn
+57.What is library spfx
+58.Adaptive card extension
+59.How to delete in spfx webpart
+60.Delete apps from recycle first and second stage
+61.Application customizer default language
+62.Use page placeholders from application customizer
+63.How to scss
+64.Get login user name
+65.Diploy.alert
+66.onDispose
+67.what is gulp sever , gulp no browser
+68.How to put in production
+69.How to create spfx for local
+70.Where I can find sppkg file
+71.All client site webaprt topic
+72
+73.Sharepoint onpream
+74.Visual studio in set up sharepoint
+75.Types of site
+76.Timer jobs
+77.Form solution
+78.Sandbox solution
+79.Create custom workflow
+80.Modernizing SharePoint solution
+81.Migrating SharePoint services to Microsoft Azrue
+82.Sharepoint from management 
+83.Sql server
+84.create context with c#
+85.C# crud with c#
+86.File upload with c#
+87.File Break in chunk in c#
+88.Get login user detail in c#
+89.Whindows server
+90.Active Directory
+91.Event receiver
+92.Network Sharedrive confirgation
+93
+Rest api
+What is rest api
+Keywords in restapi
+Filter in sharepoint 
+Get more then 5000 teams in rest api
+
+What is import and export
+1.All Feature of SharePoint Admin centre @
+2.How to apply file activity auditing via SharePoint admin center @
+3.Migration of SharePoint via SharePoint admin center @
+4.Limit of days to restore sharepoint deleted site @
+5.How to restore deleted sharepoit site via powershell @
+6.Limit of days to restore sharepoint deleted files and folders @
+7.What is sara tool @
+8.How to check SharePoint Usage @
+9.How to check health in SharePoint Admin center and what is use @
+10.Check Sharing permission in SharePoint site @
+11.How to check Site Storage in SharePoint site @
+12.How to delete SharePoint site via pnp powershell  @
+13.How to give sharepoint site access to external users @
+14.How to check access External users in SharePoint site @
+15.How to check user permission in SharePoint site @
+16.What is the security Group in SharePoint site @
+17.How content is shared inside and outside organization @
+18.How to create Policy for SharePoint @
+19.What is Governance and compliance policy in sharepoint @
+20.How to manage storage for SharePoint and OneDrive @
+21.how to Restore a deleted OneDrive @
+22.How to manage the taxonomy and metadata for SharePoint content @
+23.How to add term store in SharePoint list  @
+24.How to update term store column in SharePoint list via c# @
+25.How to update term store column in SharePoint list via spfx @
+26.How to update term store column in SharePoint list via rest api @
+27.How to manage apps available in SharePoint environment @
+28.How to configure Search setting and manage search result in SharePoint @
+29.How users and devices access SharePoint online @
+30.How to maintain compliance with legal and regulatory requirement @
+31.What is viva 
+32.How to manage organization viva connection setup for a unified employee experience
+33.What is hub site 
+34.How to create Hub site
+35.How to set policy in hub site
+36.How to configure branding in hub site
+37.What is migration manager in sharepoint 
+38.How to migrate data sharepoint online to sharepoint onpream 
+39.How to check service health in sharepoint
+40.What is classic feature management in admin center
+41.What is ondrive management in Sharepoint Admin center
+42.What is Multilingual Experience in admin center
+43.How to check external sharing repoint via admin center
+44.How to control external sharing files via admin center 
+
+
+47.How to Give SharePoint site administrator Access via PowerShell 
+48.How to restore delete sharepoint site via PowerShell
+
+50.What is SharePoint @
+51.How to document manage in SharePoint
+52.How to create intranet in SharePoint
+53.What is team sites
+54.How to create custom workflow and automation in SharePoint
+55.What is matadata in SharePoint
+56.How to enable external sharing in SharePoint
+57.How to customize search capabilities
+58.How to enable multifactor authentication 
+59.What is role-based access control in SharePoint
+60.How to apply role-based access control in SharePoint
+61.What is retention policy
+62.How to create retention policy
+63.What is eDiscovery 
+64.How to create DLP policy in SharePoint
+65.Workflow automation in SharePoint
+66.Version control in SharePoint
+67.Document approval in SharePoint
+68.SharePoint instigation with Microsoft 365
+69.Where we can apply custom code in SharePoint 
+70.Create navigation in hub site
+71
+72
+73.How many types of SharePoint site we can create @
+74.How to create team site
+75.How to create communication site
+76.What is difference between team site and communication site
+77.What is document center site in sharepoint
+78.What is record center site in sharepoint
+79.What is Project site in sharepoint
+80.What is Publishing site in sharepoint
+81
+82.What is enterprise Wiki site in sharepoint
+83.What is Custom site template 
+84.How to create Custom site template site in SharePoint
+85.What is Blog site in SharePoint
+86
+87.Create SharePoint team site @
+88.How to change URL of SharePoint team site 
+89.How many webpart in modern team site
+90.How many webpart in Classic site
+91.How to create communication site
+92.How to change the look of team site 
+93
+94.How to Create hub site@
+95.How to site associate with hub site in sharepoint
+96.Limitation of hub site 
+97.Create user
+98.What is SharePoint online
+99.What is SharePoint
+100.SharePoint types
+101.Advantages and Disadvantages of SharePoint
+102.SharePoint features
+103.Default workflow in SharePoint list
+104.Trail setup
+105.What is site collection
+106.How to create site collection
+107.What is team site 
+108.How to create team site 
+109.Visual studio in set up sharepoint
+110.What is Site group
+111.What is Office 365 group
+112.What is site group and office 365 group
+113.Difference between csom and jsom
+114.Difference between communication and team site
+115.Difference between List and Library
+116.difference between display name and internal name
+117.Different between sharepoint Add-in and apps
+118.Different between sharepoint site column and list column
+119.Document management system
+120.Types of sharepoint sites
+121.How to use project sites in sharepoint
+122.What is Hub site
+123.Backup and restore
+124.Enable Custom script from sp admincenter
+125.Check user property from sp admincenter
+126.How to create List in sharepoint
+127.Libraries
+128.Edit a file in a document library
+129.Add a link in a document Library
+130.Creating a Picture library
+131.Upload files to a picture library
+132.Search and Filter in a document library
+133.Collaboration in the document library
+134.SharePoint Alerts
+135.Delete file from a document library
+136.SharePoint storage
+137.Audit logs in file
+138.Classic page webpart
+139.Template of webpart and import export
+140.Create custom aspx page
+141.Content search webpart and content query webpart
+142.Script editor and content editor
+143.Impersonation steps
+144.Import export list
+145.List setting filter and group by
+146.List format
+147.List lookup column 
+148.Term store
+149.List calculated column formulas
+150.List view
+151.Task list
+152.What is security group in sharepoint
+153.SharePoint Document sets
+154.Types of permissions in sharepoint site
+155.Types of columns
+156.Insert image type column
+157.Grant and break permissions
+158.Validation in form
+159.What is site column and list column
+160.How to create and use site column
+161.What is content type
+162.How to create content type
+163.How to apply content type in list
+164.InfoPath form
+165.PowerApps form
+166.Migration permission manually
+167.Migration pages manually
+168.Migration list and library manually
+169.Migration SharePoint site manually
+170.Migration webpart manually
+171.Migration content type manually
+172.Migration template as well manually
+173
+174.Sharepoint Default migration tool
+175.Sharepoint life cycle
+176.Retention policy 
+177.i1 , i2 , i3, i4 Label in sharepoint document
+178.hybrid sharepoint environment
+179.indexing and crowling list
+180.types of page layout
+181
+182.what is caml Query 
+183.how to get sharepoint list item via Caml Query
+184.Client site object model in sharepoint and use DLL
+185.Crud with Rest api C#
+186.Crud with CSOM
+187.Crud with ajex
+188.Crud with PNP Js
+189.All rest api which use
+190.Sharepoint Administearor 
+191.Sharepoint add-in
+192.Sharepoint apps 
+193.Sharepoint site setting feature
+194.SharePoint - Packaging & Deploying
+195.What is onedrive
+196.How to change language of sharepoint site
+197.SharePoint site Navigation
+198.What is Site template
+199.How to create site template 
+200.What is page template 
+201.How to create List template
+202.Import data from excel in sharepoint list
+203.Creating a document library
+204.Upload files to a document library
+205.Add column and edit view in the document library
+206.SharePoint Versioning
+207.Create a Survey in SharePoint
+208.Creating a Wiki page Library in SharePoint
+209.Create a Page Template
+210.Create Microsoft FORMS in SharePoint
+211.Parent content type
+212.What is out of box feature
+213.Add an app third party tool
+214.SharePoint Document sets
+215.Doument management sysnter
+216.Search document which lates modifiles
+217.Crowl in search 
+218.Search feature in SharePoint 
+219.How to use webpart in search 
+220.Theme customization and webpart in new pages
+221
+222
+223.Graph api
+224.o365
+225.Powerplatform Admin center
+226.Powerautomate
+227.Powerapps canvas
+228.Powerapps modern 
+229.Data flows
+230.Cards
+231.Select group
+232.Powervirtual agent
+233.Powerpages
+234.Power BI
+235.Azure
+236.React js
+237.Shareget
+238.Nintext flow
+239.Powershell
+240.Onedrive
+241.C#
+242.Graph api
+243.o365
+244.Powerplatform Admin center
+245.Powerautomate
+246.Convert Number to String in powerapps
+247.SDLC in powerapps
+248.Security in powerapp
+249.Azure Devops Version control In powerapps
+250.Agile in powerapps
+251.Waterfall
+252.What is jira
+253.Powerapps modern 
+254.Data flows
+255.Cards
+256.Select group
+257.Power virtual agent
+258.What is powerBI
+259.How to Create Power BI report @
+260.How to install power bi
+261.Connect with data power bi
+262.How to Clean and transform data in power bi
+263.How to create visualization in power bi
+264.How to add filter and Slicer in powerBi
+265.How to Formet your power BI report 
+266.How to create relationships in power BI
+267.How to publish report power BI
+268.How to Schdule data refresh
+
+270.Automation in Power BI @
+271.Scheduled Data refresh in Power BI
+272.Power automate integration in power bi
+273.Using powerShell Script for Automation in power BI
+274.Data flows in power BI
+275.Pagination report Subscription in power BI
+276.Embedding power BI reports for automated Access
+277.Alert Automation in power BI
+278.Row level Security Automation in power BI
+279.Power BI rest api for automation 
+
+281.Visualization in Power BI
+282.List of data source
+283.Get data via api
+284.Measure and column
+285.Slicer
+286.Type of Filter
+287.Parameters
+288.Data set
+289.Data view and report view
+290.Types of report
+291.Ask question and create graph
+292.Change the data type in data source
+293.What is report
+294.What is dashboard
+295.How to create List in Dataverse
+296.What types of column we can create in Dataverse
+297.How to apply access permission item level in Dataverse
+298.Liquid Template code in powerpages| Basics of liquid Code | Get Started with Liquid in Portals
+299.Adx tool
+300.Open source
+301.Logic,loops , variable
+302.Dataverse
+303.Before run any client site code
+304.Liquid is server side language
+305.Dynamic 365 portals is software (Saas)
+306.JS vs liquid
+307.Working with data that is sensitive like debug
+308.Interact with MS Sataverse
+309.Access data from portal component like site setting, content snippetetc
+310.Can‘t get looged in user details role and permissions etc
+311.Server site logic
+312.Event can apply
+313.We can write liquid code in webpage like html and javascript , basic form ., advance form , list , content snippet
+314.Operation : use as web api, write fetch XML , design custom page abd display dynamic content
+315.User object like {{user.fullname}}
+316.Fetch xml
+317.Use site setting
+318.Use content snippet
+319.Use Site marker
+320.Use basic form
+321.Use entity list
+322.Use web template
+323.Liquid template – Microsoft dataverse – specific tags : Chart id
+324.Power bi ID (powerbi embeded)
+325.Code component
+326.Use entity list
+327.Go to powerapps and there web tempelate for liquid code
+328.Fetch xml entity data and for loop
+329.Powerpages
+330.What is React js
+331.What is virtual DOM
+332.Install react js
+333.Learn react without install react JS
+334.Folder and file structure in react JS
+335.Class component in react JS
+336.Function component in react JS
+337.Jsx in react JS
+338.Life cycle methods in react JS
+339.Hooks in react JS
+340.Status in react JS
+341.Props in react JS
+342.Event in react JS
+343.Function in react JS
+344.Listing in react JS
+345.Conditions in react JS
+346.Fragment in react JS
+347.What is DOM
+348.What is React js
+349.CS6 Classes
+350.CS6 Arrow Functions
+351.CS6 Variables (let, const, var)
+352.CS6 Array Methods like .map()
+353.CS6 Destructuring
+354.CS6 Modules
+355.CS6 Ternary Operator
+356.CS6 Spread Operator
+357.What is react JS
+358.React Render HTML
+359.React JSX
+360.React Components
+361.React Class Components
+362.React Props
+363.React Events
+364.React Conditional Rendering
+365.React Lists
+366.React Forms
+367.React Router
+368.React Memo
+369.Styling React Using CSS
+370.Styling React Using Sass
+371.React Hooks
+372.React useState Hook
+373.React useEffect Hooks
+374.React useContext Hook
+375.React useRef Hook
+376.React useReducer Hook
+377.React useCallback Hook
+378.React useMemo Hook
+379.React Custom Hooks
+380.Bootstrap with react js
+381.Forms in react JS
+382.Routing in react JS
+383.API in react JS
+384.Make build in react JS
+385.Puch code in git hub in react JS
+386.Install node
+387.Install NPM
+388.React new feature 
+389.React all hooks list and use
+390.Firnt end farmwork
+391.Angular js 
+392..net
+393.Consol application
+394.Chat GPT to create excel
+395.C#
+396.Powerbi formulas and use
+397.How can we interact sql to powerapps and sharepoint directly via api
+398.O365 tenant to tenant migration
+399.Microsoft outlook administrator
+400.Create application for teams
+401.Create application for office
+402.Create application for outllok
+403.Create application for flow
+404.Create application for powerapps
+405.Create application for onedrive
+
+406.Create application for bookings
+407.Create application for power bi
+408.Create application for sharepoint
+409.Microsoft 365 govenece tools
+410.Spfx 
+411.Azure
+412.Rest api
+413.Bissness application in powerplatform
+414.Setup and manage powerplatform COE 
+415.Web design intranet portal
+416.intranet site in sharepoint
+417.azure Ai based solution
+418.Azure open ai
+419.Azue AI document inteliget service
+420.Azure AI cognitive service
+421.Third partly application with sharepoint
+422.Monitor sharepoint uses and security
+423.Create , deploy , package intranet portal in sharepoint site
+424.Create webside design using ootb
+425.Create Ui extension using SPFX
+426.Create Page layout using SPFX
+427.Create Themes using SPFX
+428.Create Display template using SPFX
+429.Intrgrate external application using rest api
+430.Connect to graph api to automate M365 solutions
+431.Build web component in SharePoint
+432.Build list library in SharePoint
+433.Build content kinds in SharePoint
+434.Site column in SharePoint
+435.Master page in SharePoint
+436.Search navigation in SharePoint
+437.Data management in SharePoint
+438.O365
+439.Powerplatform
+440.Could azure
+441.Sharepoint security architecture using M365 group and sharepount group
+442.Powershell script
+443.Azure resource group
+444.Resourses
+445.Azure web apps
+446.Azure AI services
+447.UI/UX 
+448.Data flows in powerapps
+449.Data verse 
+450.Power pages
+451.AI builder / virtual agent
+452.Powerapps custom connector
+453.Approval flow in powerautomate
+454.Concate and concatenate
+455.Governance jobs for o365
+456.Froms in o365
+457.Teams in o365
+458.Copilot in visual studio
+Copilot in powerAutomate
+459.Copilot in PowerApps
+460.Copilot in word
+461.Copilot in excel
+462.Copilot in outlook
+463.Copilot in Sharepoint
+464.RPA
+465.VBA
+466.Monday.com
+467.Confluence
+468.Subscription Edition
+469..net application
+470.Dessing and customize sharepoint solution
+471.Manage Active directry configuration and integration
+472.Sharepoint solution
+473.Goven manage the administrator configrationand security of sharepoint environment
+474
+475.Maintain governance jobs ,flows , report for all o365 services
+476.Sharepoint 2013 full trust code
+477.User control
+478.Feature stapling
+479.Sharepoint client site and serverside object model
+480.Xml
+481.Xsd
+482.UmL
+483.AJAX
+484.PL-200
+485.C#
+486.ASP .NET
+487.WCF
+488.MVC
+489.Dataverse
+490.Nintex flows
+491.Nintex forms
+492.Dataverse with Data model and relationships 
+493.PowerApps formulas
+494.PowerApps security Capabilities
+495.Power Automate Desktop
+496.Power Automate Desktop 
+497.Get data from excel and read power automate desktop
+498.Try catch apply in power automate desktop
+499.Read all action in power automate desktop
+500.Input output variable and flow veriable
+501.Read excel action will Return data as Data table
+502.Write text to file in power automate Desktop
+503.After close Excel instance
+504.How to run power automate desktop
+505.Power Automate Desktop : work with create new list , AddItem to list , remove item from list , clear list
+506.Variables
+507.Create new list
+508.Add item to list
+509.Message box
+510.Display message
+511.Run
+512.Remove item from list
+513.Index
+514.Value
+515.Remove all occurrences
+516.Power Platform Environment
+517.Environment
+518.Environment Groups
+519.Environment Routing
+520.Security roles
+521.Solutions
+522.Environment variables
+523.Azure
+524.React js
+525.Shareget
+526.Nintext flow
+527.Powershell
+528.Onedrive
+529.C#
+530.Sharegate
+531.Migration permission Shareget
+532.Migration pages Shareget
+533.Migration list and library Shareget
+534.Migration SharePoint site Shareget
+535.Migration webpart Shareget
+536.Migration content type Shareget
+537.Migration template as well Shareget
+538.Migration SharePoint to OneDrive
+539.Incremental Migration
+540.Data migration limit 
+541.Limitation migration data
+542.Check Explorer connection
+543.Plan
+544.Copy
+545.All Report
+546.Security
+547.Tasks
+548.scheduled
+549.policies
+550.check in 
+551.Discard checkout
+552.Clean version history
+553.Break inheritance
+554.Restore inheritance
+555.Copy structure and content
+556.Copy content only
+557.Copy items
+558.Copy planner plans
+559.Document set
+560.What is PowerApps pipeline
+561.Azure app services 
+562.azure function 
+563.Azure logic apps
+564.Azure logic app in PowerShell
+565.Azure storage
+566.Azure cLI
+567.Resource group
+568.Modern driven app
+569.Dataverse tutorials 
+570.Project
+571.power bi
+572.Powerpages
+573.Sharegate content management
+574.Explore
+575.Plan
+576.Copy
+577.All report
+578.Security
+579.Tasks
+580.Schedule
+581.Policies
+582.Download
+583.Check in
+584.Discard checkout
+585.Clean version history
+586.Break inheritance
+587.Restore inheritance
+588.Delete permanently
+589.Restore permission inheritance
+590.Copy structure and content
+591.Copy content only
+592.Copy items 
+593.Copy planner plans
+594.How to use Csom in SharePoint crud operation
+595.How to use Jsom in SharePoint crud operation
+596.How to use API in SharePoint crud operation
+597.How to Upload big file in chunk via SharePoint rest api
+598.How to upload a big file in sharepoint document library in chunk pnp js
+599.What is azure login apps
+600.How to create Azure logic apps for SharePoint 
+601.How to trigger Azure logic apps via power automate
+602.How to create a hub site In SharePoint
+603.How to configure hub site with multiple sub site In SharePoint
+604.How to design header and footer in hub site In SharePoint
+605.How to Give access to users in hub site In SharePoint and restrict for some site
+606.Create a new communication SharePoint site via pnp PowerShell?
+607.How to create a new team site via power automate
+608.How to create a new team site via PNP PowerShell
+609.Get all fields of all SharePoint site via PNP PowerShell
+610.How to rename category of content type in SharePoint admin portal
+611.What is environment variable in SPFX
+612.How to create environment variable in SPFX
+613.How to get value from environment variable in SPFX
+614.What is shared group machine in o365 and how to use this machine
+615.How to create shared group machine in o365?
+616.What is shared group machine in o365 and how to use this machine
+617.How to create shared group machine in o365?
+618.Migration permission PowerShell
+619.Migration pages PowerShell
+620.Migration list and library PowerShell
+621.Migration SharePoint site PowerShell
+622.Migration webpart PowerShell
+623.Migration content type PowerShell
+624.Migration template as well PowerShell
+625.Crud with PnpJs powershell 
+626.Crud with CSOM powershell 
+627.Crud with SPO powershell 
+628.Exception handling in powerautomate
+629.Clear list in powerautomate desktop 
+630.all action in powerautomate desktop
+631.Modern Driven application
+632.2.business process flows -1
+633.3.Columns
+634.4.Forms
+635.5.Business rules
+636.6.Relationship
+637.7.keys
+638.8.Dashboard
+639.9.Charts
+640.10.Views
+641.11.Type Dataverse table
+642.Type Dashboard
+643.13.Type custom page
+644.14.1.https://copilot.microsoft.com/
+645.2.copilot in PowerApps 
+646.3.copilot in Power BI
+647.Copilot in PowerApps
+648.Copilot in PowerApps limitation
+649.Copilot in PowerApps Advantage
+650.How to enable copilot for PowerApps and change configuration
+651.PowerApps copilot connector
+652.Create custom copilot in PowerApps
+653.Data retention policy apply in SharePoint site
+654.How to remove data retention policy in specific site
+655.where I can check my deleted sharepoint files after applying data retention policy
+656.what is compliance portal feature in o365 for SharePoint
+657.What is sensitivity label in SharePoint 
+658.How to enable sensitivity label SharePoint document
+659.How to remove sensitivity label form document in SharePoint site via admin portal
+660.What is azure function 
+661.How to create azure function 
+662.Which type of work in SharePoint for create azure function
+663.How to use azure function for SharePoint 
+664.How to trigger azure function by power automate
+665.What is the limitation of PowerApps 
+666.Which data source to get more than 2000 items
+667.How can we get more than 2000 items with delegation issue
+668.How to Give PowerApps access to external users
+669.Create custom connector in PowerApps
+670.Get data from portman API in PowerApps
+671.How to PowerApps in Power BI report?
+672.What is the Avepoint Migration tool
+673.What is different between Avepoint and Sharegate tool
+674.What is Matalogix Migration tool
+675.What is different between Matalogix and Sharegate tool
+676.What is web services in SharePoint
+677.How to create web services for sharepoint 
+678.1. Gatway in powerapps
+679.2.All formulas in powerapps
+680.3.Get more then 5000 items in powerapps
+681.4.Concate and concatimate in powerapps
+682.5.Concurrent in powerapps
+683.6.All control in powerapps
+684.7.Create custom copilot in powerapps
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+3. Moderndriven app
+4. Dataverse tutorials 
+Project
+power bi
+Powerpages
+What is Agile Software Development
+Microsoft power platform development
+Power bI report and dashboard
+PowerApps 
+power automate workflows
+Data verse data modelling
+customization entity field and relationship
+azure services and co-pilot
+Microsoft AI
+strong communication
+power platform app maker Certification
+power platform functional consultant Certification
+power platform security
+performance
+optimization
+scalability
+SharePoint
+power platform governance manage security and license
+MS teams
+power BI
+M365 app suite
+PowerApps model
+create bissness process
+custom connector with Microsoft power Automate
+PowerApps formulas
+api custom connector with in PowerApps
+Microsoft flows with rest api
+MS flow
+CDs
+office 365 platform
+Model driven apps
+UI flows powerapps
+use connector in PowerApps SQL , Jira ,salesforce
+integrate power Bi report and dashboard with PowerApps
+sahrepoint On-primises
+shaepoint online
+custom development
+sharepoine mogration
+spfx webaprt and spfx extentiion
+Ms teams capabilities using apps , bots , and connector
+bulding apps with micorsoft graph
+sharpoint migration sharegate , avepoint , metalogc
+c#
+asp .net
+javascript
+html 5
+css
+xml
+jquery
+sql server
+web services
+sharepoint online
+csom , jsom api
+azure devops
+runbook
+GDPR , HIPAA
+sharepoint sites
+sharepoint developemt and governance
+cross-functinal teams to intigrate sharepoint with other system
+Nintex
+rest api
+powerpages
+power platform solutions
+cofigure dataverse
+data verse data modeling
+Azure services
+power vitula agent
+list libraris 
+webpart
+workflows
+infopath form
+microsoft 365 secrity and complience
+Azure Logic Apps
+Get Sensitivity Label of SharePoint site - Pnp Powershell
+Update Content type of SharePoint site - Pnp Powershell
+Get file report ownership of SharePoint site - Pnp Powershell
+All all SharePoint sites with all property - Pnp Powershell
+Apply Retention policy for SharePoint site
+React JS life cycle where we can apply state in SPFX in class component
+What is default Language of application customizer in extension SPFX
+How to create extension in spfx
+
+What is the Environment in power platform?
+How many types of Environments available in Power Platform? 
+What is Environment history
+How to create Environment in power platform
+What is solution in PowerApps
+How to create Solution in PowerApps
+How to import export solution one environment to another
+What is Publisher in power platform 
+How to create Publisher in PowerPlatform
+What is security group in powerplatform
+How to create security group in power platform
+What is DLP Policy in Power Platform
+How to create DLP Policy in power platform
+What is azure?
+How to create app registration in azure*?
+Microsoft Purview compliance portal
+What is the feature of compliance portal?
+What is Sharepoint?
+What is the Feature of sharepoint Online
+How to get data from sharepoint list graph api from azure portal
+App registration in sharepoint online site
+What is Azure CLI? 
+What is Runbook in azure? 
+How to create Runbook in azure?
+What is azure function?
+How to create azure function? 
+Get started with Power Apps 
+Overview of the Microsoft 365 admin center 
+Administer Microsoft Power Platform
+
+Git hub
+Repository
+How to create birthday wished web part in SharePoint designer
+bot framwork composer for PVA create a new dropdown
+what is nintex license
+all action of Nintex
+how to import and export nintext form 
+infopath form 
+how to use edit and delete form in infopath form
+Can we do CRUD Operations to a SharePoint list and SharePoint library using Power Pages
+Using web parts on SharePoint pages
+Error number with definition
+Difference between 2010 and 2013 sharepoint
+How to feature enable of 2010 and 2013
+What is Microsoft lookbook
+api.jquery.com
+PL-200 all topic
+PowerShell Script to Generate Permission Report for SharePoint Online Site
+what is HTML 5
+Your all project
+what are the different ways to deploy SharePoint add-ins//c# process
+How do you connect (reference) to a SharePoint list and how do you insert a new list items //c# curd
+Plumsail custom form
+Steps to Create a Custom Form with Plumsail
+On prem nintex workflow limitation and advantage and all actions
+Nintex Workflow for SharePoint On-Premises
+check you teams chat question
+Out of search box in SharePoint online
+What is hybrid search in SharePoint online
+Rest api limitation in power automate.
+How many Security groups are available in SharePoint
+How to get environment variable value in power automate
+How to get environment variable value in PowerApps
+How to create custom connector in PowerApps 
+How to use Hosted workbench – Video
+How to use Git hub to upload and Get back repository data
+How to create hub site in sharepoint – video
+How to create page template in sharepoint
+Customize the template of approval email in powerautomate
+how to add content type in SharePoint list
+All project
+Which type of work you done in c#
+Get items via ajex rest api from SharePoint
+Geq filter 
+Call the Azure Function from SharePoint using JavaScript or Power Automate
+create apps
+ARF(Assignment request form) project
+Delegation
+On behalf of amount, we have approval hierarchy.
+Edit form.
+We can click on items and get the details who approved and who is reject.
+Check all history of approver and previous approver.
+Purchase request form.
+Unique identification number
+Delegation
+On behalf of amount, we have approval hierarchy.
+Edit form.
+We can click on items and get the details who approved and who is reject.
+Check all history of approver and previous approver.
+What is Power Apps?
+Design model-driven apps using app designer
+Business process flow
+Overview of application lifecycle management with Microsoft Power Platform
+Overview of the model-driven app designer
+Create a model-driven app with the app designer
+App navigation in model-driven apps
+Add or remove forms, views, or charts
+Work with model-driven app pages
+Powerapp open with sharepoint new button
+Cofigure schedule refress in powerbi
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+Moderndriven app
+Dataverse tutorials 
+Project
+power bi
+Powerpages
+Powerautomate desktop
+How to give access External user of spfx webpart
+Get Azure Ad group in spfx
+Give spfx webpart access to az group users and show hide 
+Spfx webpart show hide for users only sharepoint group users can see
+Break permission of users in spfx by pnp js
+Crud with spfx pnp js
+What is Scrum in agile
+Dataverse
+What is PowerApps pipeline
+Azure app services 
+azure function 
+Azure logic apps
+Azure logic app in powershekl
+Azure storage
+Azure cLI
+Resource group
+Moderndriven app
+Dataverse tutorials 
+Project
+power bi
+Powerpages
+How to apply security for only some users in dataverse
+create a bissnes rule
+business process flow
+work flows
+bissness logic with code in datavers
+limitation to get item in pwoerapps dataverse
+import export dataverse
+import export table
+retention in dataverse
+import data with dataflow connector
+create and edit virtual table in dataverse
+set up virtual table relationship
+table relation ship
+Globle choice column
+use pipelice to simplitfy solution deployment
+dataverse acceletor
+design cards
+AI plugin in powerplatform
+Access migration in dataverse
+work with solution
+create a bissness rule in dataverse
+create moden driven app
+use powerquery
+liquid code in power pages
+What is SharePoint
+Features of SharePoint
+Why SharePoint?
+Content Management System (CMS)
+Advantage and Disadvantage of SharePoint
+Types of SharePoint
+SharePoint Foundation
+SharePoint Server
+Office 365
+what is sharegroup machine in o365 and how to use this machine
+What is Power Apps?
+Explore Power Apps for free for 30 days
+3 . Request a Power Apps license for yourself
+Request Power Apps licenses for your app users
+Sign in to Power Apps
+Get started with Power Apps
+PowerApps environment setting 
+Copilot in Power Apps overview (preview)
+Enable or disable Copilot (preview) in Power Apps
+Build apps through conversation (preview)
+Continue editing your app with Copilot (preview)
+Add a Chatbot control to a canvas app (preview)
+Add a Copilot Control to a canvas app (preview)
+Add a custom Copilot to a canvas app (preview)
+Text generation model (preview) (deprecated)
+Create Power Fx formulas with Copilot
+Use field suggestions by Copilot
+Add the Copilot control to the rich text editor
+Use Copilot in the email rich text editor
+Add Copilot for app users in model-driven apps
+Filter, sort, and search galleries with Copilot (preview)
+Draft well-written input text with Copilot (preview)
+Add knowledge to an existing copilot
+What's new in Power Apps?
+Get your developer environment (preview)
+How to create Intranet theme in sharepoint online
+How to create Intranet theme in sharepoint online
+How to create template of sharepoint online site
+How to use created template in sharepoint site
+How to import and export sharepoint site as template
+How to import sharepoint site as template
+What is size limitation of sharepoint site as template
+How to increase size of SharePoint site as template via PowerShell
+How to create sharepoint site as template via powershell
+All Permission of sharepoint online site
+How to create Document management in sharepoint online
+SharePoint List Item Control
+How Does SharePoint improve performense
+What is Sharepoint?
+What is the Feature of sharepoint Online
+How to get data from sharepoint list graph api from azure portal
+App registration in sharepoint online site
+license about shareget
+all type of migration tool
+migrate list view in SharePoint from shareget
+Explain about your migration project
+Is it possible by shareget term store
+Limitation of shareget
+Advantage of shareget
+How to import and export content type in SharePoint
+Any diffrent tool are available in market like shareget
+How to migrate permisstion in SharePoint shareget
+Page migration to shareget
+check tutorial of shareget
+List migration to shareget
+Content type migration to shareget
+Permission migrate to sharegate is it possible
+users migrate to shareget is it possible
+Learn shareget every thing
+how to connect with SharePoint shareget
+shareget tool limitation
+list out migration tool
+
+
+license about power bi
+what is power bi
+why should we use power bi
+Diffrence between power bi and table Au
+Diffrence between powerQuery and power Pivot
+What is power bi destop
+what is power Pivot
+what is powerQuery
+Describe the component of microsoft self service Bi solution
+Firstly read powerbi all tutorial
+what is Dex in powerbi
+What are filters in power bi
+how to add controls in pwoerbi and use filter
+what are custom visuals in PowerBI
+
+
+
+
+441. license of powerautomate
+442. How to get old PowerAutomate history
+442. How to check version history feature in powerautomate and check old History
+443. Limit rest api in a day powerautomate
+445. Authentication third party in powerautomate
+446. what is use of compose in powerautomate?
+447 Time zone any country to send notification on same time in powerAutomate
+448 limitation of ation in power automate
+449 Change the owner less power automate
+450 Handle error and run next step
+451 How to create custom connector in powerapps
+452 Type of custom connector in powerautomate
+453 How to move PowerAutomate one to another environment
+454 what is power automate desktop
+455 Date convert time zone in powerautomate
+456 How to send email every day same time in different time zone
+458 what is oauth in powerautomate
+459Powerautomate authentication external connector
+460 exception handling in powerautomate
+461more then 5000 items get in sharpeoint list by powerautomate
+
+1What is PowerApps
+2Types of PowerApps
+3How to create Responsive canvas PowerApps
+4Different between modern driven and canvas app
+5How to get more then 2000 items in canvas app 
+6How to Repeated table in PowerApps
+7Limit of nested gallery in PowerApps
+8PowerApps pipeline
+•	9PowerApps Governance tool
+•	What is the Environment in power platform?
+•	How many types of Environments available in Power Platform?
+•	What is Environment history
+•	How to create Environment in power platform
+•	What is solution in PowerApps
+•	How to create Solution in PowerApps
+•	How to import export solution one environment to another
+•	What is Publisher in power platform 
+•	How to create Publisher in PowerPlatform
+•	What is security group in powerplatform
+•	How to create security group in power platform
+•	What is DLP Policy in Power Platform
+•	How to create DLP Policy in power platform
+•	Dataverse
+•	Challenging thing
+•	Types of modern driven app
+•	Info path form
+•	Deligaton issue
+•	How to fix Deligaton issue
+•	Filter ,lookup , search 
+•	In the sharepoint which are desible and which are not desible
+•	Deployed in another environment
+•	How to create solution and migrate
+•	What is Manage solution and unmanage solution in PowerApps
+•	Variables in powerapps
+•	Envirment variable 
+•	How can get value in powerapps
+•	Add custom connector in powerapps
+•	How to post man api data in powerapps
+•	Connection differences in PowerApps
+•	Any other filter expeact three
+•	Concate and cocatinate
+•	Table and gallery
+•	How to create cutom component
+•	Create dynamic component gallery
+•	What is Powerapps
+•	Types of PowerApps
+•	How to create Responsive canvas PowerApps
+•	Different between modern driven and canvas app
+•	How to get more then 2000 items in canvas app
+•	How to Repeated table in powerapps
+•	Limit of nested gallery in powerapps
+•	463 license about powerapps
+•	463 How to add powerapps solution in powerapps
+•	465 How to fix delegation issue in powerapps
+•	466 How to publish Powerapps with external users
+•	467 What is PowerApps
+•	468 What is delegation issue in powerapps
+•	469 limit powerapps item get and how to fix
+
+•	470 Difference between patch and submit
+•	471Different between concat and concatenate
+•	472difference between blank and empty in powerapps
+•	473 Why use launch and parameter in powerapps
+•	learn powerapps all function
+•	what is connection in powrapps
+•	How to move apps one to another envirement
+•	What are all command powerapps Module
+•	list out some of the commands in the powerapps module
+•	External user use Powerapps
+
+
+
+•	2. React js how to change state in function component
+•	React js how to change state in class component
+•	React js how to update props value is it possible 
+•	Props value how to transfer one component to another 
+•	Life cycle in class component
+•	Life cycle  In function component 
+•	423. Difference between state and props
+•	421. Lifecycle react js
+•	422. React tools include REact profiler/component , react-dom,redux, reduxthunk/saga
+•	420. Arrow Function in react js
+•	424. What is react js all W3 school
+•	425. What is life cycle of SharePoint
+•	426. React js class component life cycle
+•	427. react js function component life cycle
+•	428. How to update state in class component
+•	429. How to update state in function component
+•	430. What is hooks function and how many hooks in react js
+•	431. What is JSX in react js
+•	432. ES6 function in react js
+•	433. What is Current Version of React JS and what is new update
+•	434. Right down all hooks list in react js
+•	436. What is React Router
+•	437. what is flux in react
+•	438. What is Redux in React JS
+•	439. Difference b/w class component and Function component
+•	440. ES6 class function in react js
+
+•	How to create header and footer in spfx
+•	What is the option when we create extension 
+•	How to create application customizer in spfx
+•	How to create global variable in spfx
+•	How to create Field Customizers in spfx
+•	How to create Command Sets in spfx
+•	How to create Form Customizers in spfx
+•	How to connect spfx to azure group and azure ad users
+•	How to Create people picker field in spfx 
+•	Create custom search webpart in spfx
+•	Create dynamic dropdown in property pane one to another  in spfx
+•	How to call  one function from another in spfx
+•	Insert item with no javascript in spfx
+•	Get items with no javascript in spfx
+•	Delete item with no javascript in spfx
+•	Update item with no javascript in spfx
+•	Get more then 5000 items via no javascript in spfx
+•	Insert item with PNP Js in spfx
+•	Get items with PNP Js in spfx
+•	Delete item with PNP Js in spfx
+•	Update item with PNP Js in spfx
+•	Get more then 5000 items via PNP Js in spfx
+•	How to Import export spfx webpart
+•	Create environment variable in spfx and get value 
+•	How to debug spfx deploy code via visual studio
+•	How to debug spfx code in sharepoint
+•	How to visible spfx webpart for external users
+•	How to permission break of external user in spfx
+•	How to give edit permission to user who have read permission in SharePoint list in spfx
+•	44. How to create file via pnp js in spfx
+•	45. Upload file in chunk via pnp js in spfx
+•	46. Get user manager detail via pnp js in spfx
+•	47. Get user details via email in pnp js in spfx
+•	48. Create custom list or library via spfx is it possible
+•	49. Changes in sharepoint list insert form in spfx
+•	50. How to create Outlook add-in in spfx
+•	51. Create custom sharepoint page via SPFX
+•	52. How Graph api use in spfx
+•	53. How to use Fabric ui control in spfx and install
+•	54. How to install bootstrap and use in spfx
+•	408. How kind of apps can Developed in SPFX?
+•	406. SPFX PNP js CRUD
+•	405. SPFX React js CRUD
+•	404. SPFX Nojavascript CRUD
+•	403. more then 5000 items get in sharpeoint list by PNP js
+•	402. How to Deploy SPFX webpart
+•	401. What is Constructor
+
+
+
+All Feature of SharePoint Admin centre
+How to apply file activity auditing via SharePoint admin center 
+Migration of SharePoint via SharePoint admin center
+Limit of days to restore sharepoint deleted site
+How to restore deleted sharepoit site via powershell
+Limit of days to restore sharepoint deleted files and folders
+What is sara tool
+How to check SharePoint Usage in sharepoint admin center
+How to check health in SharePoint Admin center and what is use
+How to Check Sharing permission in SharePoint site
+How to check Site Storage in SharePoint site
+How to delete SharePoint site via PNP powershell
+How to give sharepoint site access to external users
+How to check access External users in SharePoint site
+How to check user permission in SharePoint site
+What is the security Group in SharePoint site
+How content is shared inside and outside organization
+How to create Policy for SharePoint
+What is Governance and compliance policy in sharepoint
+How to manage storage for SharePoint and OneDrive
+How to Restore a deleted OneDrive
+How to manage the taxonomy and metadata for SharePoint content
+How to add term store in SharePoint list
+How to update term store column in SharePoint list via c#
+How to update term store column in SharePoint list via spfx
+How to update term store column in sharepoint list via rest api
+How to manage apps available in SharePoint environment
+How to configure Search setting and manage search result in SharePoint
+How users and devices access SharePoint online
+How to maintain compliance with legal and regulatory requirement
+What is Bussness Process flow in Model driven app
+How to create Business Process flow
+How to create Soulution in powerapps
+what is Publisher in solution powerapps
+what is Datatable in powerapps
+How to create relationship in powerapps dataverse table
+create item in PNP Js SPFX
+Get items in PNP JS spfx
+Update Item in PNP JS SPFX
+Delete Item in PNP JS in spfx
+Get Current User details in SPFX via PNP js
+install PNP js in spfx
+Create context config in spfx and get current Context detail
+External user how to use SPFX
+Give access only sp group and AZ group
+break permisstion of users in spfx PNP js
+Crud SPFX PNP js 
+SPFX current version USE
+create environment and webpart with question
+debug solution
+spfx solution upload by script and how many ways to Deploy spfx solution in app catalog
+create custom property pane
+How many ways to debug hosted webaprt
+add external css and js in spfx
+file structure in spfx
+what react js version use in spfx
+what is new version in spfx and feature
+life cycle 
+Hooks 
+How to update state and props and diffrence 
+powershell 5 command
+connect with shrepoint powershell
+insert item with pnp js in sharepoint list
+command for get all sites
+command for get all disable users
+what is spfx
+share spfx webaprt with external user
+type of spfx extention and what is
+what is best in spfx react js or type script 
+what is type script
+How to add my custom css in spfx
+what is current vertion in spfx
+what is new in spfx
+what is current vertion of node
+full form of npm , spfx , node
+file package.json details
+how to load external file in spfx
+how to load external api in spfx
+febric ui and react control in spfx
+property pane and how to use
+crud with No javascript
+crud with ajex
+crud with react js
+code of add item in spfx
+code of rest api
+code of header in rest api
+local workbanch and sharepoint workbanch
+How to debug spfx in deploy code
+import export spfx webaprt
+check group permission in spfx
+get azure ad group in spfx
+connect graph api
+oninit function
+defender in spfx
+Give access in classic page
+visual studio code in debug deploy code
+externla third party solution in spfx
+different type of feature in spfx aspact webpart
+site level and tenent level app catalog
+different type connect to sharepoint in spfx
+SPFX context to get another site collection
+
+Reatc js intro
+react ES6
+react render html
+react jsx
+react component
+react class
+react props
+react events
+react conditions
+react js list
+react forms
+react router
+react Memo
+react css style
+react scss style
+what is hooks
+usestate
+useeffect
+usecontext
+useref
+usereducer
+usecallback
+usememo
+custom hook
+Diffrect between props and state
+diffrence between class component and function component
+lifecycle in call component 
+state in class and fucntion component
+
+
+Type of powerautomate
+how many ways to fetch more then 2000 items
+how many types of loop we can use in powerautomate
+one flow to trigger another flow
+exception handling in powerautomate
+how to connect thirdparty connector
+limitation if condition
+How many types ate connector available with type
+how to connect ecternal connector in poweratomate
+condition with modifyb in get item
+trigger flow when modify column
+action are failed and jump to next action
+convert time zone
+send email with same time on based on reson
+get group in powerautomate
+compaire array in powerautomate via formula
+break permisstion In powerautomate
+get excel data in powerautomate
+How to incrish performance 
+import export one solution to another
+envirment variable 
+compose in PA
+
+
+
+where we can deploy powershell script 
+azure function 
+what is azure
+
+How many days after flow turn off 
+api limit in powerautomate
+run a flow ation
+how to fix delegation issue
+post man api in powerautomate
+Caml query to return collection in spfx react
+filter in react array
+rest api and pnp js to get user details 
+create custom property pane and dynamic dropdown
+create react popup with febric UI
+jquery install and use in spfx
+update term store column in spfx
+create vitual table in spfx
+create datatable in spfx
+customize sharepoint list insert and edit form via spfx
+create outlook add-in in event button
+
+powerBI tutorial
+powerbi desktop
+power bi report builder
+power bi dataset
+odata feed powerbi
+blank query power bi
+visualization in power bi report
+new measure
+quick measure
+manage relationship
+transformation data in power bi
+filter slicer
+text control 
+dropdown 
+card , matrix, line ,table
+pages
+dashboard
+secret ket to get data by api
+paginated report and power bi report
+powerbi gatway
+formulas powerbi
+powerbi perameters
+dex
+
+sharepoint object model
+copilot in powerapps
+copilot in powerautomate
+copilot in powerpages
+powervirual agent to add detail in excel
+
+
+How to create bussness process flow In powerapps
+scrum agile
+dataverse table relationship
+types of dataverse column
+dashboard in dataverse
+form in dataverse
+caculated column in dataverse
+chart 
+solution 
+
+sharepoint site setting feature
+how to publish powerapps for external users
+
+what is enviroment in powerplatform
+how to create enviroment in powerplatform 
+what is solution in powerplatform
+how to create solution
+what is publisher 
+what is security group
+how to create security group
+what is DLP policy in powerplatform
+how to create dlp policy
+what is azure
+how to create app ragistration
+what is complience portal
+what is use and feature of complience portal
+how to get data from grap api
+how to configer graph api for get sharepoint list item
+azure CLI
+runbook
+azure function
+type of envirment 
+enviroment history
+
+what is bussness process flow 
+what is powerapps desktop
+Azure file Share
+shareget tool migration
+devops
+create retention policy of sharepoint 
+Azure logic apps
+dataverse
+how to create and add user in security group
+add and remove user to m365 security group
+how to create virtual machine in azure
+what is resource group
+Azure function
+powerquery in powerbi
+powerbi desktop
+power bi workspace 
+How to create power bi Dashboard
+text , change backgroud color
+How to create Powerbi report
+Power bi shapes , logo , button , Q&A
+Dataset in powerbi how to connect
+How to connect MySQL  database to powerbi toll
+Shared group machine in o365 and how to use this
+How to create shared group machine in o365
+outlook
+yammer
+ms teams 
+ms stream
+planner
+power bi classic
+How to prevent users from creating groups in o365
+All admin portal
+premiem license
+choose a group type
+what is Microsoft 365 group
+what is distribution group
+what is mail-enable secutrity group
+what is security group
+Powershell to create security group
+Difference between install and import module
+Azure storage account
+container
+
+
+
+
+
+
+
