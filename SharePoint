@@ -1,5 +1,33 @@
+Sharepoint Administrator
+    **Tutorial**    
 
 Sharepoint Online
+        **Tutorial**
+        Overview of the "Connect to new Microsoft 365 group" feature
+        SharePoint hub sites overview
+        SharePoint site template and site script overview
+        SharePoint site theming
+        Use column formatting to customize SharePoint
+        Use view formatting to customize SharePoint
+        Show or hide columns in a list or library form
+        Overview of SharePoint webhooks
+        Manage modern SharePoint sites using REST
+        SharePoint Site Footer
+        Shorter share link format in OneDrive and SharePoint
+        Use the site collection app catalog
+        Manage per user expiration for existing users on a site
+
+        **Interview Question**
+
+SPFX
+        Overview of the SharePoint Framework
+        Why the SharePoint Framework?
+        Set up your Microsoft 365 tenant
+        Set up your SharePoint Framework development environment
+        Overview of SharePoint client-side web parts
+        Build your first SharePoint client-side web part (Hello World part 1)
+        Connect your client-side web part to SharePoint (Hello World part 2)
+
 
 Git and GitHUB
       **Tutorial**
