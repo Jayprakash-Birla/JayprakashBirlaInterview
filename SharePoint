@@ -1,36 +1,85 @@
 Sharepoint Administrator
-    **Tutorial**    
+      **Tutorial**    
+
+      **Interview Question**
 
 Sharepoint Online
-        **Tutorial**
-        Overview of the "Connect to new Microsoft 365 group" feature
-        SharePoint hub sites overview
-        SharePoint site template and site script overview
-        SharePoint site theming
-        Use column formatting to customize SharePoint
-        Use view formatting to customize SharePoint
-        Show or hide columns in a list or library form
-        Overview of SharePoint webhooks
-        Manage modern SharePoint sites using REST
-        SharePoint Site Footer
-        Shorter share link format in OneDrive and SharePoint
-        Use the site collection app catalog
-        Manage per user expiration for existing users on a site
+      **Tutorial**
 
-        **Interview Question**
+      Overview of the "Connect to new Microsoft 365 group" feature
+      SharePoint hub sites overview
+      SharePoint site template and site script overview
+      SharePoint site theming
+      Use column formatting to customize SharePoint
+      Use view formatting to customize SharePoint
+      Show or hide columns in a list or library form
+      Overview of SharePoint webhooks
+      Manage modern SharePoint sites using REST
+      SharePoint Site Footer
+      Shorter share link format in OneDrive and SharePoint
+      Use the site collection app catalog
+      Manage per user expiration for existing users on a site
+
+      **Interview Question**
 
 SPFX
-        Overview of the SharePoint Framework
-        Why the SharePoint Framework?
-        Set up your Microsoft 365 tenant
-        Set up your SharePoint Framework development environment
-        Overview of SharePoint client-side web parts
-        Build your first SharePoint client-side web part (Hello World part 1)
-        Connect your client-side web part to SharePoint (Hello World part 2)
+      **Tutorial**
 
+      Overview of the SharePoint Framework
+      Why the SharePoint Framework?
+      Set up your Microsoft 365 tenant
+      Set up your SharePoint Framework development environment
+      Overview of SharePoint client-side web parts
+      Build your first SharePoint client-side web part (Hello World part 1)
+      Connect your client-side web part to SharePoint (Hello World part 2)
+      Deploy your client-side web part to a SharePoint page (Hello World part 3)
+      Host your client-side web part from Microsoft 365 CDN (Hello World part 4)
+      Integrate web part properties with SharePoint
+      Make your SharePoint client-side web part configurable
+      Validate web part property values
+      Build custom controls for the property pane
+      Use cascading dropdowns in web part properties
+      Simplify adding web parts with preconfigured entries
+      Configure web part icon
+      Hide a web part from the toolbox
+      Use Office UI Fabric React components in your SharePoint client-side web part
+
+      Using single part app pages in SharePoint Online   
+      Building Microsoft Teams Tabs using SharePoint Framework
+      Hosting Microsoft Teams Tabs as a solution in SharePoint
+      Add jQueryUI Accordion to your SharePoint client-side web part
+
+      Overview of SharePoint Framework Extensions
+      Build your first SharePoint Framework Extension (Hello World part 1)
+      Use page placeholders from Application Customizer (Hello World part 2)
+      Deploy your extension to SharePoint (Hello World part 3)
+      Host an SPFx extension from the Microsoft 365 CDN (Hello World part 4)
+
+      Build your first Field Customizer extension
+      Build your first ListView Command Set extension
+
+      Modifying Microsoft Search experience using SharePoint Framework extensions
+      Build your first Form Customizer extension
+      Tenant-wide Deployment of SharePoint Framework Extensions
+      Pre-allocate space for SharePoint Framework extension placeholders
+      Using library component type in SharePoint Framework
+
+      **Interview Question**
+
+      What is full form of SPFX?
+      What is full form of NPM?
+      Which version are you use in spfx?
+      Which version are you use in React JS?
+      What is Yoman?
+      What is Gulp?
+      How many types we can deploye solution is SPFX?
+      CRUD with No javascript?
+      CRUD with PNP JS?
+      Field customizer in upload file with attachment via React JS
 
 Git and GitHUB
       **Tutorial**
+
        Note : https://www.youtube.com/watch?v=Ez8F0nW6S-w
        Introduction
        Git Introduction
@@ -58,6 +107,7 @@ Git and GitHUB
 
 React JS
        **Tutorial**
+
        Note : https://www.youtube.com/watch?v=nf57giqUuJQ
        What is React js 
        What is Virtual DOM
@@ -65,10 +115,30 @@ React JS
 
        **Interview Question**
 
+
 PowerPlatform Administrator
        **Tutorial**
+
+       **Interview Question**
    
 PowerApps Canvas
+       **Tutorial**
+
+       **Interview Question**
+   
 
 PowerApps Modern Driven App
-    
+       **Tutorial**
+
+       **Interview Question**
+   
+PowerAutomate cloud flow    
+       **Tutorial**
+
+       **Interview Question**
+   
+PowerAutomate Desktop flow  
+       **Tutorial**
+
+       **Interview Question**
+   
